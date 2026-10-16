@@ -1,1543 +1,1639 @@
 # Downloaded spreadsheet from https://www.dlms.com/flag-id/flag-id-list
-# and saved as tab separated list and added this header. 2025-11-07
+# and saved as tab separated list and added this header. 2026-10-16
 # FLAG ID <TAB> Manufacturer <TAB> Country <TAB> World Region
-AAA	Aventies GmbH	Germany	Europe
-AAB	Milas
-ABB	ABB AB	Sweden	Europe
-ABC	Paya Energy
-ABN	ABN Braun AG	Germany	Europe
-ABR	ABB s.r.o.	Czech Republic	Europe
-ACA	Acean	France	Europe
-ACB	AcBel Polytech Inc.	Taiwan	Asia
-ACC	Accurate (Pvt) Ltd	Pakistan	Asia
-ACE	Actaris, France. (Electricity)	France	Europe
-ACG	Actaris, France. (Gas)	France	Europe
-ACH	Acantho S.p.A.	Italy	Europe
-ACL	Aclara Meters UK Ltd	United Kingdom	Europe
-ACN	ACN Advanced Communications Networks SA	Switzerland	Europe
-ACS	Tianjin Chuangshi Technology Developing CO. Ltd.	China	Asia
-ACT	Activis Metering GmbH	Germany	Europe
-ACW	Actaris, France. (Water and Heat)	France	Europe
-ADA	Andrea Informatique Sarl	France	Europe
-ADD	“ADD-Production” S.R.L.	Moldova	Europe
-ADE	Yantai Aerospace Delu Energy-saving Technology Co., Ltd.	China	Asia
-ADF	ADFweb.com S.r.l.	Italy	Europe
-ADN	Aidon Oy	Finland	Europe
-ADR	Adrem Engineering SRL	Romania	Europe
-ADU	Adunos GmbH	Germany	Europe
-ADV	Advant sp. z o.o.
-ADX	ADD-Production S.R.L.	Moldova	Europe
-AEA	Abam Electronic Alborz	Iran	Middle East
-AEC	Advance Electronics Company	Saudi Arabia	Middle East
-AEE	Atlas Electronics	Serbia	Europe
-AEG	AEG
-AEI	Ajay Electrical Industries	India	Asia
-AEL	Kohler	Turkey	Middle East
-AEM	S.C. AEM S.A.	Romania	Europe
-AEN	ADVANCED ENERGY MANAGEMENT SOLUTIONS LTD	Nigeria	Africa
-AER	Aerzener Maschinenfabrik GmbH	Germany	Europe
-AES	ALFANAR ELECTRICAL SYSTEM	Saudi Arabia	Middle East
-AFS	AFSONA INVEST LLC	Uzbekistan	Asia
-AFX	Alflex Products	Netherlands	Europe
-AGE	AccessGate AB	Sweden	Europe
-AGI	PT. Armitec Electrical Systems	Indonesia	Asia
-AGT	Agnitio Technologies Pvt Ltd	India	Asia
-AHV	aventies GmbH	Germany	Europe
-AHX	Sepanta Electronic Tabarestan	Iran	Middle East
-AIC	Avastu India Creations Pvt Ltd.	India	Asia
-AIM	Ningbo Aimei Meter Manufacture Co., Ltd.	China	Asia
-AKK	MAximum	Moldova	Europe
-AKU	Akanksha Power and Infrastructure Limited	India	Asia
-ALC	Zenner Gas S.r.l.	Italy	Europe
-ALE	AEROSPACE LIANGLI ELECTRIC CO.,LTD	China	Asia
-ALF	Alfatech – Elektromed Elektronik	Turkey	Middle East
-ALG	Algodue Elettronica srl	Italy	Europe
-ALH	ALFANAR ELECTRICAL SYSTEM	Saudi Arabia	Middle East
-ALK	Actislink Sp. z o.o.	Poland	Europe
-ALL	Allied Engineering Works Limited	India	Asia
-ALP	Alphion India Private Limited	India	Asia
-ALR	Algorab S.R.L.	Italy	Europe
-ALT	Amplitec GmbH	Germany	Europe
-ALV	Alvicom Ltd.	Hungary	Europe
-AMB	Würth Elektronik eiSos GmbH & Co. KG	Germany	Europe
-AMC	Arch Meter Corporation	Taiwan	Asia
-AMD	KEPID AMSTECH	South Korea	Asia
-AME	Avon Meters Pvt. Ltd.	India	Asia
-AMG	ANTE METER GROUP CO., LTD	China	Asia
-AMH	AmiHo Ltd	United Kingdom	Europe
-AMI	AMI Tech(I) Pvt. Ltd	India	Asia
-AML	Eon Electric Ltd.	India	Asia
-AMP	Ampy Automation Digilog Ltd
-AMR	Actislink	Poland	Europe
-AMS	Zhejiang Joy Electronic Technology Co.,Ltd	China	Asia
-AMT	INTEGRA METERING AG
-AMX	APATOR METRIX SA	Poland	Europe
-ANA	Anacle Systems PTE LTD	Singapore	Asia
-AND	Andis, s.r.o.	Slovakia	Europe
-ANE	AN electronic	Czech Republic	Europe
-ANZ	Anhui Nari Zenith Electricity&Electronic CO.,LTD
-AOM	Aquametro Oil & Marine AG	Switzerland	Europe
-AON	ASTRON d.o.o.	Slovenia	Europe
-APA	Apator SA	Poland	Europe
-APL	APLI s.r.o.	Slovakia	Europe
-APO	Apolis GmbH	Germany	Europe
-APR	Apronecs Ltd	Bulgaria	Europe
-APS	Apsis Kontrol Sistemleri	Turkey	Middle East
-APT	Apator SA	Poland	Europe
-APX	Amplex A/S	Denmark	Europe
-AQA	ACTAQUA GmbH	Germany	Europe
-AQL	Aqualoc	South Africa	Africa
-AQM	INTEGRA METERING AG	Switzerland	Europe
-AQN	Aquantia S.r.l.	Italy	Europe
-AQT	Aquatherm sp.j. PPH.	Poland	Europe
-AQU	Aquamess Gmbh	Germany	Europe
-ARA	Aranha Ltd.	United Kingdom	Europe
-ARC	Arcelik AS	Turkey	Middle East
-ARD	Arad Group Ltd	Israel	Middle East
-ARF	ADEUNIS RF	France	Europe
-ARG	ARGO group of companies	Russian Federation	Europe
-ARH	PT. Armitec Electrical Systems	Indonesia	Asia
-ARK	Arkon Flow Systems, s.r.o	Czech Republic	Europe
-ARM	Arivus metering GmbH	Germany	Europe
-ARQ	ARQIVA	United Kingdom	Europe
-ARS	ADD – Bulgaria Ltd	Bulgaria	Europe
-ART	Electrotécnica Arteche Smart Grid	Spain	Europe
-ARW	Arrow Electronics India Pvt. Ltd	India	Asia
-ARX	Aras Mercu Sdn. Bhd.	Malaysia	Asia
-ASA	Asac srl	Italy	Europe
-ASC	A2A Smart City	Italy	Europe
-ASD	AS DAQ SYSTEMS PVT LTD	India	Asia
-ASG	Meter technology Company	Saudi Arabia	Middle East
-ASH	Basic Electronics Company Limited	Saudi Arabia	Middle East
-ASJ	ACCUMET SOLUTIONS	India	Asia
-ASM	Adya Wifi Metering Pvt. Ltd.	India	Asia
-ASR	Erelsan Elektrik ve Elektronik	Turkey	Middle East
-AST	ASTINCO Inc.	Canada	North America
-ASY	Arvato Systems Digital GmbH	Germany	Europe
-ATA	Alcansar Ölçüm ve Otomasyon Sistemleri	Turkey	Middle East
-ATE	ADVANCE TECHNOLOGY AND ELECTRICS COMPANY LIMTED	Thailand	Asia
-ATF	AKTIF OTOMASYON LTD.STI.	Turkey	Middle East
-ATI	Analogics Tech India Ltd.	India	Asia
-ATL	Atlas Elektronik	Turkey	Middle East
-ATM	Atmel Spain SAU	Spain	Europe
-ATS	Atlas Sayaç Sanayi A.Ş.	Turkey	Middle East
-AUR	Aurum Europe B.V.	Netherlands	Europe
-AUT	Aiut Sp. z o.o.	Poland	Europe
-AUX	Ningbo Sanxing Smart Electric Co., Ltd.	China	Asia
-AVA	Avangard JSC	Russian Federation	Europe
-AVE	ASHTAVINAYAKA ENERGY INFRA PVT. LTD.	India	Asia
-AXI	Axioma Metering, UAB	Lithuania	Europe
-AXS	AXSEM AG	Switzerland	Europe
-AYS	Euromet Ltd Stl	Turkey	Middle East
-AZE	AZEL Electronics	Turkey	Middle East
-BAM	Bachmann GmbH & Co KG	Germany	Europe
-BAR	Bär Industrie Elektronik GmbH	Germany	Europe
-BAS	BASIC INTELLIGENCE TECHNOLOGY CO.,LTD.	China	Asia
-BBE	Bentec Bhartia Engineers Pvt. Ltd.	India	Asia
-BBS	BBS Electronics	Singapore	Asia
-BCE	ShenZhen B.C Electronic CO. Ltd.	China	Asia
-BCR	Jiangsu Bingchen Electronics Co Ltd.	China	Asia
-BEA	Baer Energy Automation GmbH	Germany	Europe
-BEE	Bentec India Limited	India	Asia
-BEF	BEFEGA GmbH	Germany	Europe
-BEG	begcomm Communication AB	Sweden	Europe
-BEL	Belassitsa AD	Bulgaria	Europe
-BEN	BEENIC GmbH	Germany	Europe
-BER	Bernina Electronic AG	Switzerland	Europe
-BFW	BFW Buero fuer Waermemesstechnik OHG	Germany	Europe
-BHG	Brunata A/S	Denmark	Europe
-BIM	BEAM INFOTECH PVT. LTD.	India	Asia
-BJY	Beijing JOYO smart water meter co.,ltd.	China	Asia
-BKB	Boendekomfort AB	Sweden	Europe
-BKO	Beko Elektronik AS	Turkey	Middle East
-BKT	Bekto Precisa	Bosnia and Herzegovina	Europe
-BLM	BELIMO Automation AG	Switzerland	Europe
-BLU	Bluering	Italy	Europe
-BME	Beifeng GmbH	Germany	Europe
-BMI	Badger Meter Inc., 6116 E 15th St.	United States of America	North America
-BMP	BMETERS Polska Sp.z.o.o.	Poland	Europe
-BMT	BMETERS  srl	Italy	Europe
-BNR	Beijing Banner Electric Co., Ltd.	China	Asia
-BOV	JiaXing Bove Intelligent Technology Co., Ltd	China	Asia
-BPM	Aadharshila Mobility Solutions Pvt Ltd	India	Asia
-BRA	Brandes GmbH	Germany	Europe
-BRC	BRICK4U GmbH	Germany	Europe
-BRN	Bruntab Energy LTD.	Iran	Middle East
-BRT	BEREKET TEKNOLOJİK ÖLÇÜM SİSTEMLERİ BİL.ELK.İNŞ.İTH.İHR.SAN VE TİC LTD.ŞTİ	Turkey	Middle East
-BRU	Klaus Bruchmann GmbH	Germany	Europe
-BSC	Sanaye Sanjesh Energy Behineh Sazan Toos	Iran	Middle East
-BSD	BSED UG	Germany	Europe
-BSE	Basari Elektronik A.S.	Turkey	Middle East
-BSI	Bundesamt für Sicherheit in der Informationstechnik (BSI)	Germany	Europe
-BSM	Bluestar Electrical Meter Research Institute	China	Asia
-BSP	Byucksan Power Co. Ltd.	South Korea	Asia
-BSS	Baylan Su Sayaçları	Turkey	Middle East
-BST	BESTAS Elektronik Optik	Turkey	Middle East
-BSX	BS-Messtechnik UG	Germany	Europe
-BSY	Aktif Enerji Ä°nsaat Sanayi ve Ticaret Limited Sirketi	Turkey	Middle East
-BTA	Buta Elektromekanik A.Ş.	Turkey	Middle East
-BTL	BIT-LAB
-BTM	Bharatech Smart Industrial Pvt Ltd	India	Asia
-BTR	RIA-BTR Produktions-GmbH	Germany	Europe
-BTS	Basari Teknolojik Sistemler AS	Turkey	Middle East
-BUR	Bopp und Reuther Messtechnik GmbH	Germany	Europe
-BUY	BUYI TECHNOLOGOY CO., LIMITED.	China	Asia
-BXC	Beijing Fuxing Xiao-Cheng Electronic Technology Stock Co., Ltd Xisanhuan Beilu	China	Asia
-BYD	BYD Company Limited	China	Asia
-BYL	Baylan	Turkey	Middle East
-BYW	Baylan Water Meters	Turkey	Middle East
-BZR	Gebr. Bauer GbR	Germany	Europe
-CAB	Cabtronix AG	Switzerland	Europe
-CAD	CADIS	Belgium	Europe
-CAH	MAEC – GROUPE CAHORS	France	Europe
-CAL	Caleffi S.p.A.	Italy	Europe
-CAN	PT CANNET ELEKTRIK INDONESIA	Indonesia	Asia
-CAR	CARI Electronic	France	Europe
-CAT	Cubes And Tubes OY	Finland	Europe
-CAV	CaveTronic	Poland	Europe
-CBF	ELECTRICAL CIRCUIT BREAKER FACTORY FOR INDUSTRY-ECB	Saudi Arabia	Middle East
-CBI	Circuit Breaker Industries	South Africa	Africa
-CBS	CB Svendsen A/S	Denmark	Europe
-CCP	13348164 Canada Corp	Canada	North America
-CCS	Chetas Control Systems Pvt Ltd	India	Asia
-CDA	Centre for Development of Advanced Computing	India	Asia
-CDL	Customised Data Ltd.	United Kingdom	Europe
-CDT	CENTRE FOR DEVELOPMENT OF TELEMATICS	India	Asia
-CEB	Cebyc AS	Norway	Europe
-CED	CEDARNET	France	Europe
-CEG	Consolinno Energy GmbH	Germany	Europe
-CEH	Tosee Garan Sanjesh Energy Hoshmand	Iran	Middle East
-CEL	Creative Electronics (Pvt) Ltd	Pakistan	Asia
-CEM	YAVUZ METAL SANAYI VE TICARET A.S.	Turkey	Middle East
-CET	Cetinkaya Aydinlatma	Turkey	Middle East
-CGC	Contor Group S.A.	Romania	Europe
-CGO	Cavagna Group S.p.A	Italy	Europe
-CHA	Charles Technology & Research LTD.	Taiwan	Asia
-CHC	CHUN-IL INSTRUMENT CO.,LTD	South Korea	Asia
-CHE	Shandong Chenhui Electronic Technology Co., Ltd.	China	Asia
-CHM	Chung-Hsin Electric and Machinery Manufacturing Corp. 	Taiwan	Asia
-CHS	Smart Services International Sagl	Switzerland	Europe
-CIC	CHALLENGE INDUSTRIAL CO., LTD	Taiwan	Asia
-CIR	Circutor	Spain	Europe
-CJS	CJS Technology Ltd	United Kingdom	Europe
-CKT	CKT Elektrik Elektronik Sanayi ve Ticaret A.Ş	Turkey	Middle East
-CLA	3g celllabs private limited	India	Asia
-CLB	CMC S.r.l.	Italy	Europe
-CLE	Shen Zhen Clou Electronics Co Ltd. 	China	Asia
-CLO	Clorius  Raab Karcher Energi Service A/S
-CLS	Celsa Messgeräte GmbH	Germany	Europe
-CLT	Zhuhai S.E.Z. Calintech Electric Co., Ltd.	China	Asia
-CLX	CLK IPEKYOLU LOJISTIK VE TICARET A.Å.	Turkey	Middle East
-CLY	Clayster AB	Sweden	Europe
-CMC	CMC EKOCON d.o.o.	Slovenia	Europe
-CMP	CM Partner Inc	South Korea	Asia
-CMS	CMS Computers Limited
-CMT	CMOSTEK MICROELECTRONICS CO., LTD.	China	Asia
-CMV	Comverge, Inc.	United States of America	North America
-CNM	COSTEL	South Korea	Asia
-CNU	CNU Global	South Korea	Asia
-COH	COHEAT Ltd, Future Business Centre	United Kingdom	Europe
-COM	COMMON S.A.	Poland	Europe
-CON	Conlog
-CPG	CentraPlus GmbH	Germany	Europe
-CPL	CPL CONCORDIA Soc.Coop.	Italy	Europe
-CPO	C3PO S.A.	Spain	Europe
-CPS	CAPITAL POWER SYSTEMS LIMITED	India	Asia
-CQC	Yueqing Qicheng Electric Co., Ltd	China	Asia
-CRD	CRDM DEVELOPPEMENTS	France	Europe
-CRT	CRDM Technology	France	Europe
-CRW	Xuzhou Runwu Science and Technology Development Co. Ltd.	China	Asia
-CRX	Corinex Communications Corp.	Canada	North America
-CRY	Crystal Power	India	Asia
-CSC	CHUBUSEIKI Co., LTD.	Japan	Asia
-CSL	Comsel System Ltd	Finland	Europe
-CSP	CSP – Innovazione nelle ICT	Italy	Europe
-CSW	Critical Software	Portugal	Europe
-CTE	COSTER T.E. S.p.A.	Italy	Europe
-CTL	Cyan Technology Ltd	United Kingdom	Europe
-CTP	Cabcon Technologies Private Limited	India	Asia
-CTQ	Control-Q b.v	Netherlands	Europe
-CTR	Contar – Electronica Industrial	Portugal	Europe
-CTT	DLMS User Association Conformance	Switzerland	Europe
-CTX	Contronix GmbH	Germany	Europe
-CUB	Cubic Sensor and Instrument Co.,Ltd	China	Asia
-CUC	Cuculus GmbH	Germany	Europe
-CUR	CURRENT Group, LLC	United States of America	North America
-CWA	CompWell AB	Sweden	Europe
-CWI	Cewe Instrument AB	Sweden	Europe
-CWV	CMEC Electric Import & Export Co. Ltd	China	Asia
-CYE	Quanzhou Chiyoung Electronics Technology Co. Ltd.	China	Asia
-CYI	QUANZHOU CHIYOUNG INSTRUMENT CO., LTD	China	Asia
-CYN	Cynox, Weinart Engineering	Germany	Europe
-CZA	Contadores de Agua de Zaragoza S.A.	Spain	Europe
-CZM	Cazzaniga S.p.A.
-DAE	DAE Srl	Italy	Europe
-DAF	Daf Enerji Sanayi ve Ticaret A.S.	Turkey	Middle East
-DAN	Danubia
-DBD	DBD Water Systems	India	Asia
-DBE	Decibels Electronics P Ltd, Decibels Electronics Pvt Ltd.	India	Asia
-DCD	Delhi Control Devices Pvt. Ltd.	India	Asia
-DCO	diaeco wave company	Iran	Middle East
-DCZ	decarbon1ze GmbH	Germany	Europe
-DDE	D&D Elettronica srl	Italy	Europe
-DDI	DD Infraventures Pvt. Ltd.	India	Asia
-DDL	DONGDO LMS	South Korea	Asia
-DEA	Dea HT srl	Italy	Europe
-DEC	DECODE d.o.o. Data Communications	Serbia	Europe
-DEI	DevSys Embedded Technology	India	Asia
-DEL	DELTAMESS DWWF GmbH	Germany	Europe
-DEN	Ducati Energia	Italy	Europe
-DES	Desi (Alarms) Ltd	Turkey	Middle East
-DEV	Develco Products	Denmark	Europe
-DFE	Dongfang Electronics Co., Ltd.	China	Asia
-DFS	Danfoss A/S
-DGC	Digicom S.p.A.	Italy	Europe
-DGI	Digi International Inc.
-DGM	Diehl Metering	Germany	Europe
-DGY	Discovergy GmbH	Germany	Europe
-DHA	Shanghai dahua measuring&auto control instruments manufactory	China	Asia
-DHQ	YIDU Smart Technology ( Beijing ) Co.,Ltd.	China	Asia
-DIE	Dielen GmbH	Germany	Europe
-DIG	Digutal Request GmbH	Germany	Europe
-DIL	DECCAN INFRATECH LIMETED	India	Asia
-DJA	De Jaeger Automation bvba	Belgium	Europe
-DKY	Electric Power Research Institute of Guangdong Power Grid Corporation	China	Asia
-DLX	Delixi Group Instruments & Meters Co.,ltd	China	Asia
-DMC	DMC International	United Arab Emirates	Middle East
-DME	DIEHL Metering	Germany	Europe
-DMG	DIINNO GmbH	Germany	Europe
-DMI	Dualmicro Measurement Technologies B.V.	Netherlands	Europe
-DMO	BEENIC GmbH	Germany	Europe
-DMP	DM Power Co., Ltd	South Korea	Asia
-DMS	Digilog Micro Solutions Private Limited	India	Asia
-DNB	Dana Sanjesh Ab o Bargh (Danaab)	Iran	Middle East
-DNC	Dongnam Co., Ltd	South Korea	Asia
-DNO	DENO d.o.o.	Croatia	Europe
-DNT	Dr Neuhaus Telekommunikation GmbH	Germany	Europe
-DNV	DNV GL	Netherlands	Europe
-DOJ	Suzhou Dojustek Intelligent Technology Co.,Ltd.	China	Asia
-DOM	Domat Control System	Czech Republic	Europe
-DOS	Metsec Cables Ltd.	Kenya	Africa
-DPM	DELTA PRIMA METERING SDN. BHD.
-DPP	DECCAN POWER PRODUCTS PVT. LTD.	India	Asia
-DRC	DURECOM Co., Ltd.	South Korea	Asia
-DRP	DBD WATER SYSTEMS	India	Asia
-DRT	DRESSER Italia S.r.l.	Italy	Europe
-DSE	Digitech Systems and Engineering Private Limited	India	Asia
-DSM	Desimal Elektronik Mühendislik San. ve Tic. A. Ş.	Turkey	Middle East
-DST	Shenzhen Donsun Technology Co. Ltd.	China	Asia
-DTE	DanTaet A/S	Denmark	Europe
-DUA	DLMS User Association	Switzerland	Europe
-DUS	Dresser Utility Solutions GmbH	Germany	Europe
-DVE	DEV ENERGY	Morocco	Africa
-DVG	Device GmbH	Germany	Europe
-DVL	devolo AG	Germany	Europe
-DWY	Dwyer Instruments, LLC	United States of America	North America
-DWZ	Lorenz GmbH & Co. KG	Germany	Europe
-DZG	DZG Metering GmbH	Germany	Europe
-EAA	Electronic Afzar Azma	Iran	Middle East
-EAD	EAD Energieabrechnungssysteme GmbH
-EAH	Endress+Hauser	Germany	Europe
-EAS	EAS Elektronik San. Tic. A.S.	Turkey	Middle East
-EBE	Ebeco AB	Sweden	Europe
-EBK	Biesenthal GmbH	Germany	Europe
-EBV	EBV Elektronik GmbH & Co KG	Germany	Europe
-EBZ	eBZ GmbH	Germany	Europe
-ECA	ECO ADAPT	France	Europe
-ECB	ELECTRICAL CIRCUITT BREAKER FACTORY FOR INDUSTRY	Saudi Arabia	Middle East
-ECC	Energycare Company	Saudi Arabia	Middle East
-ECH	Networked Energy Services Corporation	United States of America	North America
-ECI	ECIL	India	Asia
-ECL	Electronics Corporation of India Ltd	India	Asia
-ECM	Ecomess Sp. z o. o.	Poland	Europe
-ECO	Engie BtoC (Smart program)	France	Europe
-ECS	Herholdt Controls srl	Italy	Europe
-EDI	Enel Distribuzione S.p.A, Via Ombrone, 2, Rome	Italy	Europe
-EDM	EDMI Pty. Ltd.
-EDP	Electro Digital Meter Project Management Services LLC	United Arab Emirates	Middle East
-EEC	ESCO Sp. z o.o.	Poland	Europe
-EEE	3E s.r.l.	Italy	Europe
-EEI	ELSOURCE PVT LTD	India	Asia
-EEM	Electrify Energy Pvt. Ltd.	India	Asia
-EEO	Eppeltone Engineers Pvt Ltd	India	Asia
-EEP	ELECTRONET EQUIPMENT PVT LTD	India	Asia
-EES	Eletra Industria e Comercio de Medidores Elétricos	Brazil	South America
-EFA	EFACEC Engenharia e Sistemas SA	Portugal	Europe
-EFE	Engelmann Sensor GmbH	Germany	Europe
-EFI	Efimatic Iberica	Spain	Europe
-EFN	EFEN GmbH	Germany	Europe
-EFR	Europäische Funk-Rundsteuerung	Germany	Europe
-EFS	EFSYS	France	Europe
-EGA	eGain International AB	Sweden	Europe
-EGC	Ekbatan Gas Control	Iran	Middle East
-EGD	EcoGuard AB	Sweden	Europe
-EGM	Elgama-Elektronika Ltd	Lithuania	Europe
-EGT	Enegate Co.,Ltd.	Japan	Asia
-EGW	Enermess Energie Mess- und Servicedienste GmbH	Germany	Europe
-EGY	Egyptian Smart Meter Company	Egypt	Middle East
-EHL	Secure Meters Limited
-EHS	Endress+Hauser SICK GmbH+Co. KG	Germany	Europe
-EIE	Ei Electronics	Ireland	Europe
-EIG	Eigensonne GmbH	Germany	Europe
-EIP	Elmeasure India Pvt. Ltd	India	Asia
-EIT	EnergyICT NV	Belgium	Europe
-EKA	Eka Systems	United States of America	North America
-EKF	EKF	Russian Federation	Europe
-EKO	EKOLIS	France	Europe
-EKS	DİCLE KÖK ENERJİ YATIRIM A.Ş
-EKT	PA KVANT J.S.	Russian Federation	Europe
-ELC	"CJSC "" EMIS """	Russian Federation	Europe
-ELD	Elektromed Elektronik Ltd	Turkey	Middle East
-ELE	Elster Electricity LLC	United States of America	North America
-ELG	Elgas s.r.o.	Czech Republic	Europe
-ELL	Energy Plus	Russian Federation	Europe
-ELM	Elektromed Elektronik Ltd	Turkey	Middle East
-ELO	ELO Sistemas Eletronicos S.A.	Brazil	South America
-ELP	ElectroPlus	Iran	Middle East
-ELQ	ELEQ b.v.	Germany	Europe
-ELR	Elster Metering Limited	United Kingdom	Europe
-ELS	Elster GmbH	Germany	Europe
-ELT	ELTAKO GmbH	Germany	Europe
-ELV	Elvaco AB	Sweden	Europe
-ELY	Elektroniksystem i Umeå AB	Sweden	Europe
-EMB	Embit s.r.l.	Italy	Europe
-EMC	Embedded Communication Systems GmbH	Switzerland	Europe
-EME	SC. Electromagnetica SA	Romania	Europe
-EMF	IT-Beratung Energiemanagement Flammang	Germany	Europe
-EMH	EMH metering GmbH & Co. KG (formerly EMH Elektrizitatszahler GmbH & CO KG)
-EMI	Entorno Inteligente de Medición S.L.	Spain	Europe
-EML	Emlite ltd	United Kingdom	Europe
-EMM	Email Metering	Australia	Australia & Oceania
-EMO	Enermet
-EMR	CJSC “Energomera”	Russian Federation	Europe
-EMS	EMS-PATVAG AG	Switzerland	Europe
-EMT	Elster Messtechnik GmbH	Germany	Europe
-EMU	EMU Elektronik AG	Switzerland	Europe
-ENC	ENSYCO ETHIOPIA ELECTRICITY METER  MANUFACTURING PLC	China	Asia
-END	ENDYS GmbH
-ENE	ENERDIS	France	Europe
-ENG	ENER-G Switch2 Ltd	United Kingdom	Europe
-ENH	ENMAS GmbH	Germany	Europe
-ENI	entec innovations GmbH	Germany	Europe
-ENL	ENEL d.o.o.	Serbia	Europe
-ENN	Enernet	South Korea	Asia
-ENO	ennovatis GmbH	Germany	Europe
-ENP	“Kiev Polytechnical Scientific Research”
-ENR	Energisme
-ENS	ENSO NETZ GmbH	Germany	Europe
-ENT	ENTES Elektronik	Turkey	Middle East
-ENX	Enetronx GmbH	Germany	Europe
-EPI	EPI-USE AFRICA	South Africa	Africa
-EPL	Escorts Pakistan Limited	Pakistan	Asia
-EPT	Energy Prospect Technologies S.L.	Spain	Europe
-ERE	Enermatics Energy (PTY) LTD	South Africa	Africa
-ERI	Easun Reyrolle Limited	India	Asia
-ERL	Erelsan Elektrik ve Elektronik	Turkey	Middle East
-ERN	Ericsson Telecomunicazioni S.p.A	Italy	Europe
-ERS	Eurosys OOD	Bulgaria	Europe
-ERW	Everrenew Energy Pvt. Ltd.	India	Asia
-ESA	ESAC srl	Italy	Europe
-ESC	EDMI (Shenzhen) CO., Ltd	China	Asia
-ESD	Edelstrom Electronic Devices and Designing LLC	United Arab Emirates	Middle East
-ESE	ESE Nordic AB	Sweden	Europe
-ESG	ESG CO.,LTD.	South Korea	Asia
-ESH	EMSYCON GmbH	Germany	Europe
-ESI	Monosan Monofaze Elektrik Motorlari	Turkey	Middle East
-ESL	Esyasoft Landis and Gyr Limited	India	Asia
-ESM	Monosan Monofaze Elektrik Motorlari	Turkey	Middle East
-ESN	Zhejiang Eastron Electronic Co., Ltd.	China	Asia
-ESO	Monosan Monofaze Elektrik Motorlari	Turkey	Middle East
-ESP	EFICAA ENSMART SOLUTIONS PRIVATE LIMITED	India	Asia
-ESR	Ensor AG	Switzerland	Europe
-ESS	Energy Saving Systems LTD.	Ukraine	Europe
-ESV	ESKA VALVE	Turkey	Middle East
-ESY	EasyMeter GmbH
-ETD	Energy Team S.p.A	Italy	Europe
-ETK	ELTEK BROJILA d.o.o.	Croatia	Europe
-ETO	Sphere of economical technologies LTd	Russian Federation	Europe
-ETP	Energotechnica Llc
-EUE	E+E Electronic	Austria	Europe
-EUR	Eurometers Ltd
-EUS	Ebeling und Sohn GmbH & Co. KG	Germany	Europe
-EVD	DREWAG NETZ GmbH	Germany	Europe
-EVK	EV KUR ELEKTRIK	Turkey	Middle East
-EVL	Geothermique Ltd	United Kingdom	Europe
-EVT	EVThru	South Korea	Asia
-EWA	EWATTCH	France	Europe
-EWE	EWE AG	Germany	Europe
-EWG	EWG DOO	Serbia	Europe
-EWS	ENLESS WIRELESS
-EWT	Diehl Metering	Germany	Europe
-EXS	exceeding solutions GmbH	Germany	Europe
-EXT	LOTRIČ Metrology, Ltd.	Slovenia	Europe
-EYE	Eco-eye Ltd	United Kingdom	Europe
-EYT	Enerlyt Potsdam GmbH
-FAC	Fireangel Safety Technology Ltd	United Kingdom	Europe
-FAE	Fae Technology Company	Brazil	South America
-FAN	Fantini Cosmi S.p.A.	Italy	Europe
-FAR	FARAB	Iran	Middle East
-FAS	FAST S.P.A.	Italy	Europe
-FED	Federal Elektrik	Turkey	Middle East
-FEI	FUJI ELECTRIC INDIA Pvt LTD	India	Asia
-FEM	Fortune Electric	Taiwan	Asia
-FFD	Fast Forward AG	Germany	Europe
-FID	Fi Muhendislik Ltd.	Turkey	Middle East
-FIM	Frodexim Ltd	Bulgaria	Europe
-FIN	Finder GmbH	Germany	Europe
-FIO	Pietro Fiorentini	Italy	Europe
-FLA	FLASH ELECTRONICS (INDIA) PVT LTD	India	Asia
-FLD	Fludia	France	Europe
-FLE	XI‘AN FLAG ELECTRONIC CO. LTD	China	Asia
-FLG	FLOMAG s.r.o.	Czech Republic	Europe
-FLO	Flonidan A/S	Denmark	Europe
-FLS	FLASH o.s	Turkey	Middle East
-FLU	SHANDONG FEILONG INSTRUMENT CO.	China	Asia
-FLW	Fluidwell bv	Netherlands	Europe
-FLX	FLEXIM Flexible Industriemesstechnik GmbH	Germany	Europe
-FMG	Flow Meter Group	Netherlands	Europe
-FML	Siemens Measurements Ltd. (Formerly FML Ltd.)
-FMM	F.IMM s.r.l.	Italy	Europe
-FND	findy IoT Solutions	Bulgaria	Europe
-FNF	FlowSystem	Poland	Europe
-FNX	Flownetix Ltd	United Kingdom	Europe
-FOX	FOXYTECH Sp. z o.o.	Poland	Europe
-FPL	fifthplay NV	Belgium	Europe
-FPR	F-Pribor LLC	Belarus	Europe
-FRC	Shenzhen Friendcom Technology Co.,Ltd.
-FRE	Frer Srl	Italy	Europe
-FRU	OJSC NRPA FRUNZE	Russian Federation	Europe
-FSE	Flecto Sense	South Africa	Africa
-FSP	Finmek Space S.p.A.	Italy	Europe
-FST	FieldServer Technologies	United States of America	North America
-FSY	FlowService	Poland	Europe
-FTL	Tritschler GmbH	Germany	Europe
-FUN	Micro Matic Norge AS	Norway	Europe
-FUS	Fuccesso	China	Asia
-FUT	first:utility	United Kingdom	Europe
-FWS	FW Systeme GmbH	Germany	Europe
-FZK	FUNZIN.Co. Ltd 	South Korea	Asia
-GAT	GEPDEC SMART TECHNOLOGY PRIVATE LIMITED	India	Asia
-GAV	Carlo Gavazzi Controls S.p.A.	Italy	Europe
-GBJ	Grundfoss A/S
-GBX	GRIDBLOX	United States of America	North America
-GCE	Genergica	Venezuela	South America
-GCG	Goldcard Smart Group Co.,Ltd.	China	Asia
-GCX	grandcentrix GmbH	Germany	Europe
-GDC	GADICO TECNOLOGIA LTDA
-GDS	InnoSense AG	Switzerland	Europe
-GEC	GEC Meters Ltd.
-GEE	GE Energy	United Kingdom	Europe
-GEL	Industrial Technology Research Institute	Taiwan	Asia
-GEN	Goerlitz AG, Germany
-GEO	Green Energy Options Limited	United Kingdom	Europe
-GEP	GEPDEC INFRATECH LIMITED
-GET	Genus Electrotech Ltd.	India	Asia
-GEX	Global Evolution Lighting	Tunisia	Africa
-GFM	GE Fuji Meter Co.,Ltd.	Japan	Asia
-GIL	Genus Innovations Limited	India	Asia
-GIN	Gineers Ltd.	Bulgaria	Europe
-GIO	G. GIOANOLA S.r.l.	Italy	Europe
-GKA	G.K.Assembly Co.,Ltd.	Thailand	Asia
-GKM	George Kent (Malaysia) Bhd	Malaysia	Asia
-GLM	GETRALINE	France	Europe
-GLO	NetLand Sp. z o.o.	Poland	Europe
-GLX	Vietnam Electrical Equipment Joint Stock Corporation	Vietnam	Asia
-GMC	GMC-I Messtechnik GmbH	Germany	Europe
-GME	Global Metering Electronics	Netherlands	Europe
-GMM	Gamma International Egypt	Egypt	Middle East
-GMS	Gity Madara Sepahan	Iran	Middle East
-GMT	GMT GmbH	Germany	Europe
-GNP	GEPDEC ENERGY PVT LTD	India	Asia
-GNY	JiangSu GuoNeng Instrument Technology CO.,LTD	China	Asia
-GOE	Genus Power Infrastructures Ltd.	India	Asia
-GOM	Zhejiang Gomelong Meter Co., Ltd.	China	Asia
-GPM	Polaris Smart Metering Pvt. Ltd.	India	Asia
-GPT	GINTAI POWER TECHNOLOGY CO., LTD	China	Asia
-GRA	Grässlin GmbH	Germany	Europe
-GRD	Greenradio
-GRE	GE2, Green Energy Electronics	Portugal	Europe
-GRI	Grinpal Energy Management	South Africa	Africa
-GRN	GREEN ENS Co., Ltd.	South Korea	Asia
-GRP	GlobalRnD sp. z o.o.	Poland	Europe
-GRS	Garderos GmbH	Germany	Europe
-GRU	G.GURU  Co., Ltd.	South Korea	Asia
-GRV	Gridventure Arge ve Teknoloji Pazarlama A.Å.	Turkey	Middle East
-GRX	Gurux Ltd	Finland	Europe
-GSD	Genesis Smart Devices Private Limited	India	Asia
-GSE	Gridspertise S.r.l.	Italy	Europe
-GSP	Ingenieurbuero Gasperowicz
-GSS	R&D Gran-System-S LLC	Belarus	Europe
-GST	Shenzhen Golden Square Technology Co.,Ltd.	China	Asia
-GTE	GREATech GmbH	Germany	Europe
-GTM	G2 misuratori S.r.l.	Italy	Europe
-GTR	Globaltronics for Electronics S.A.E.	Egypt	Middle East
-GTS	GIGATRONIK Stuttgart GmbH	Germany	Europe
-GUH	ShenZhen GuangNing  Industrial CO. Ltd.	China	Asia
-GVL	gAvilar	Netherlands	Europe
-GWF	Gas- u. Wassermesserfabrik	Switzerland	Europe
-GWI	George Wilson Industries, Aldermans Green Industrial Estate	United Kingdom	Europe
-HAG	Hager Electro GmbH	Germany	Europe
-HAK	Hako, a.s.	Slovakia	Europe
-HBY	HENAN HUABIAO INSTRUMENT TECHNOLOGY Co., Ltd.	China	Asia
-HCE	Hsiang Cheng Electric Corp	China	Asia
-HCM	Hidroconta S.A.U.	Spain	Europe
-HDA	Hidria d.o.o.	Slovenia	Europe
-HDK	Hydroko NV	Belgium	Europe
-HDX	Beijing TianRuiXiangDe Measuring Technology Co.,Ltd.	China	Asia
-HDY	Dalian hundao instrument Co. Ltd.	China	Asia
-HEG	Hamburger Elektronik Gesellschaft
-HEI	Hydro-Eco-Invest SP. Z O.O.	Poland	Europe
-HEK	Hexing Technology Company Limited	Kenya	Africa
-HEL	Heliowatt
-HEM	Hokkaido Electric Meter Industry Co.	Japan	Asia
-HER	Hermes Systems	Australia	Australia & Oceania
-HEW	Honeywell Integrated Technology (China) Co., Ltd.	China	Asia
-HEX	Shenzhen Hexcell Electronics Technology CO.,LTD	China	Asia
-HFI	Nanjing Huiran Measurement&Control Technology Co. Ltd.	China	Asia
-HFL	HFIL Technologies Private Limited
-HFR	SAERI HEAT METERING TECHNOLOGY CO.,LTD.	China	Asia
-HGM	HG meter a/s	Denmark	Europe
-HGP	Hangzhou GreenPalm Technology Co., Ltd.	China	Asia
-HHE	HAUSHELD AG	Germany	Europe
-HHM	Chongqing Huahong Metering Co.,Ltd.	China	Asia
-HIE	Shenzhen Holley South Electronics Technology Co., Ltd.	China	Asia
-HIN	huebner Informationselektronik	Germany	Europe
-HIT	ABB Sp. z o.o.	Poland	Europe
-HJM	Huaihua Jiannan Machinery Factory Co.,Ltd	China	Asia
-HKK	Hokuriku Instrumentation Co. Inc.	Japan	Asia
-HKT	Heklatech AB	Sweden	Europe
-HLD	Hildebrand Technology Limited	United Kingdom	Europe
-HLT	Hangzhou Laison Technology Co.Ltd	China	Asia
-HLY	Holley Metering Ltd
-HMI	HMI Energy Co., Ltd.	Taiwan	Asia
-HML	Holley Technology Ltd., 181 WuChang Avenue	China	Asia
-HMS	Hermes Systems	Australia	Australia & Oceania
-HMT	Hangzhou Meteronic Technology Co., Ltd.	China	Asia
-HMU	Hugo Müller GmbH & Co KG	Germany	Europe
-HNA	Houshmand Namayeh Afraz	Iran	Middle East
-HND	Shenzhen Hemei Group Co., Ltd.	China	Asia
-HNN	Houshmand Namayeh Afraz	Iran	Middle East
-HOE	HOENTZSCH GMBH	Germany	Europe
-HOL	Holosys d.o.o.	Croatia	Europe
-HON	Honeywell Technologies Sarl	Switzerland	Europe
-HOY	Holley Meters	India	Asia
-HPL	HPL-Socomec Pvt. Ltd.	India	Asia
-HPM	HANGZHOU HPM COMPANY LIMITED	China	Asia
-HQL	H.Q LAMPS MANUFACTURING CO PRIVATE LIMITED	India	Asia
-HRM	Hefei Runa Metering Co., Ltd.	China	Asia
-HRS	HomeRider SA	France	Europe
-HRZ	HERZ Messtechnik GmbH	Germany	Europe
-HSD	Ningbo Histar Meter Technology Co.,Ltd.	China	Asia
-HST	HST Equipamentos Electronicos Ltda
-HSX	HST GmbH	Germany	Europe
-HTC	Horstmann Timers and Controls Ltd.
-HTE	Hexing Technologies Europe SRL	Romania	Europe
-HTI	Shandong Hetong Information Technology CO.,Ltd.	China	Asia
-HTL	Ernst Heitland GmbH & Co. KG, Erlenstr. 8-10	Germany	Europe
-HTS	HTS-Elektronik GmbH
-HUK	Helbeck & Kusemann GmbH & Co. KG	Germany	Europe
-HUM	Humanlitech Ghana Limited	Ghana	Africa
-HVG	Hekatron Vertriebs GmbH	Germany	Europe
-HVT	Helvatron AG	Switzerland	Europe
-HWC	Qingdao Hiwits Meter Co.,Ltd.	China	Asia
-HWM	Beijing Hongwei Chaoda Instrument Manufacturing Co.,Ltd.	China	Asia
-HWT	Huawei Technologies Co. Ltd.	China	Asia
-HXD	Beijing HongHaoXingDa Meters CO.,LTD.	China	Asia
-HXE	Hexing Electrical Co. Ltd.	China	Asia
-HXT	HEXIN (HONGKONG) TECHNOLOGY CO., LIMITED	China	Asia
-HXW	Hangzhou Xili Watthour Meter Manufacture Co. Ltd.	China	Asia
-HYC	Zhejiang Hengye Electronics Co.,Ltd	China	Asia
-HYD	Diehl Metering	Germany	Europe
-HYE	Zhejiang Hyayi Electronic Industry Co Ltd.	China	Asia
-HYG	Diehl Metering	Germany	Europe
-HYM	Zhejiang Hengye Electronics Co.,Ltd	China	Asia
-HYS	Hydrelis
-HYT	Zhejiang Hengye Electronics Co.,Ltd	China	Asia
-HZC	TANGSHAN HUIZHONG INSTRUMENTATION CO., LTD. 	China	Asia
-HZI	TANGSHAN HUIZHONG INSTRUMENTATION CO., LTD. 	China	Asia
-HZZ	Huizhou Zhongcheng Electronic Technology Co.,Ltd.	China	Asia
-IAC	INHEMETER AFRICA COMPANY LIMITED	Kenya	Africa
-IBE	IBOT ENERGY SYSTEMS INDIA PRIVATE LIMITED	India	Asia
-IBG	ITI LIMITED, BANGALORE PLANT	India	Asia
-IBT	İkom Bilişim Teknolojileri AŞ	Turkey	Middle East
-ICB	Inscobee	South Korea	Asia
-ICE	Icoal incorporated	United States of America	North America
-ICK	I&C Technology	South Korea	Asia
-ICM	Intracom	Greece	Europe
-ICP	PT Indonesia Comnets Plus	Indonesia	Asia
-ICS	ICSA (India) Limited	India	Asia
-ICT	International Control Metering-Technologies GmbH	Germany	Europe
-ICU	i-cube	Switzerland	Europe
-IDE	IMIT S.p.A
-IDS	IDS GmbH	Germany	Europe
-IEC	leonnardo Corporation	Ukraine	Europe
-IEE	I.E. Electromatic, S.L	Spain	Europe
-IEI	Informage Energy Pvt. Ltd.	India	Asia
-IEN	Institute of Power Engineering	Poland	Europe
-IES	Integrated Electronic Systems Lab Co., Ltd.	China	Asia
-IFC	infocon doo	Montenegro	Europe
-IFX	Infineon Technologies	Germany	Europe
-IGE	INDKOSQUARE GLOBAL ENGINEERING PRIVATE LIMITED	India	Asia
-IGM	ITALGAS RETI	Italy	Europe
-IGR	iGridS GmbH, Hebelweg 2	Germany	Europe
-IGS	I.G.S.DATAFLOW S.r.l.	Italy	Europe
-IHM	Shenzhen Inhemeter Co., Ltd.	China	Asia
-IID	PT INDUSTRI TELEKOMUNIKASI INDONESIA (Persero)	Indonesia	Asia
-IIF	Westenergie Metering GmbH 	Germany	Europe
-IJE	ILJIN Electric	South Korea	Asia
-IJK	IJENKO SA	France	Europe
-IKE	IK Elektronik GmbH, Friedrichsgruener Str. 11-13, 08262	Germany	Europe
-IKM	Ikom LTD	Croatia	Europe
-IKO	Ä°KOM BiliÅim Teknolojileri A.Å.	Turkey	Middle East
-IKS	IKASIAN	Spain	Europe
-IMC	Iranmadar	Iran	Middle East
-IME	Fellows s.c.ul. 	Poland	Europe
-IMR	iMeter LLC	Ukraine	Europe
-IMS	IMST GmbH	Germany	Europe
-IMT	INTEGRA METERING AG	Switzerland	Europe
-IMZ	iMezr Innovations Pvt Ltd	India	Asia
-INC	Incotex	Russian Federation	Europe
-IND	INDRA SISTEMAS	Spain	Europe
-INE	INNOTAS Elektronik GmbH	Germany	Europe
-INF	Infometric	Sweden	Europe
-INI	Altero AB	Sweden	Europe
-INM	Inepro Metering BV	Netherlands	Europe
-INN	INNEXIV, Inc.	United States of America	North America
-INO	Indotech Switchgear & Controls(Delhi) Pvt. Ltd	India	Asia
-INP	INNOTAS Produktions GmbH	Germany	Europe
-INS	INSYS MICROELECTRONICS GmbH	Germany	Europe
-INT	Infranet Technologies GmbH 	Germany	Europe
-INV	Sensus Metering Systems	Germany	Europe
-INX	Innolex Engineering BV	Netherlands	Europe
-IOM	IOmeter GmbH	Germany	Europe
-ION	Ionics EMS Inc	Philippines	Asia
-IOT	Trilliant Networks Inc	Canada	North America
-IPD	IPD Industrial Products Australia	Australia	Australia & Oceania
-IQO	Kwhiq	Netherlands	Europe
-IQS	IQ Systems (Pty) Ltd	South Africa	Africa
-IRE	IREN Energia S.p.A.	Italy	Europe
-ISA	Isabellenhütte Heusler GmbH & Co. KG	Germany	Europe
-ISE	INESH SMART ENERGY (P) LTD.	India	Asia
-ISF	Investcom Szymon Fiedorowicz	Poland	Europe
-ISI	Akcionarsko Drustvo “Insa” Industrija Satova	Serbia	Europe
-ISK	Iskraemeco	Slovenia	Europe
-ISO	Isoil Industria spa	Italy	Europe
-ISS	Iskra d.d.	Slovenia	Europe
-IST	Ista
-ISW	iSAtech water GmbH	Germany	Europe
-ITA	iTrona GmbH	Switzerland	Europe
-ITB	Itron Solucoes para Energia e Agua Ltda.	Brazil	South America
-ITC	INTECH TUNISIE	Tunisia	Africa
-ITE	ITRON (Electricity)	France	Europe
-ITF	ITF Fröschl GmbH	Germany	Europe
-ITG	ITRON (Gas)	France	Europe
-ITH	INTELTEH d.o.o.	Croatia	Europe
-ITI	ITRON Asia	Indonesia	Asia
-ITK	Itron GmbH	Germany	Europe
-ITL	Indriya Technologies Pvt Ltd	India	Asia
-ITM	Intelligent Metering Systems (Pvt.) Limited	Pakistan	Asia
-ITP	M/s ITI LIMITED.	India	Asia
-ITR	Itron Inc
-ITS	ITRON Australasia Pty Ltd	Australia	Australia & Oceania
-ITU	ITRON United States, Itron Inc 	United States of America	North America
-ITW	ITRON (Water)	France	Europe
-ITX	IDEAL TECHNICAL SOLUTIONS	United Arab Emirates	Middle East
-ITZ	ITRON South Africa	South Africa	Africa
-IUS	IUSA SA DE CV 	Mexico	North America
-IVY	IVY-metering	China	Asia
-IWD	Inkwell Data	Ireland	Europe
-IWK	IWK Regler und Kompensatoren GmbH
-IYI	KAYI ENERGY Hacettepe Üniversitesi	Turkey	Middle East
-IZE	iZenze AB	Sweden	Europe
-JAC	Jay Autocomponents Limited	India	Asia
-JAN	Janitza electronics GmbH	Germany	Europe
-JBF	Beijing jingyibeifang instrument limited company
-JCE	Janz – Contadores de Energia SA	Portugal	Europe
-JED	JED Co Ltd	South Korea	Asia
-JGD	tianjin guangdaweiye measuring instrument technology Co.,Ltd	China	Asia
-JGF	Janz – Contagem e Gestao de Fluidos SA	Portugal	Europe
-JGH	ITSQUARE CO.,LTD	South Korea	Asia
-JHA	Zhejiang JiaHe Instrument CO.,Ltd	China	Asia
-JHM	Changzhou Jianhu Intelligentize Meter Co.,Ltd.	China	Asia
-JJN	BeiJing Fine&Clean Enery Technology Co.,Ltd	China	Asia
-JKW	QingdaoJakewill Energy Technology Co.,Ltd.	China	Asia
-JMA	Huizhou JMAO Intelligent Technology Co., Ltd.	China	Asia
-JMT	JM-TRONIC Sp. z o.o.	Poland	Europe
-JNC	NINGBO JIANAN ELECTRONICS CO.,LTD.	China	Asia
-JND	J&D Electronics CO.,Ltd	South Korea	Asia
-JNJ	JNJ POWERCOM SYSTEMS LTD	India	Asia
-JOY	Zhejiang Joy Electronic Technology Co., Ltd.	China	Asia
-JPM	JPM INDUSTRIES LIMITED	India	Asia
-JSM	Jining Goldwater Science&Technology Co.,Ltd.	China	Asia
-JSO	Schlösser Armaturen GmbH & Co. KG	Germany	Europe
-JST	JSTech Co.,Ltd.	South Korea	Asia
-JUM	JUMO GmbH & Co. KG	Germany	Europe
-JWH	TIANJIN WANHUA CO.,LTD.	China	Asia
-JWR	Shandong jingwei telecommunications equipment co., LTD.	China	Asia
-JWS	Wesson energy-saving technology (tianjin) co., LTD.	China	Asia
-JYS	Beijing Jingyuan instrument limited company	China	Asia
-KAA	Kamstrup A/S	Denmark	Europe
-KAC	"АО ""КАСКАД"	Russian Federation	Europe
-KAL	Kallenbach Elektronik GmbH
-KAM	Kamstrup Energi A/S
-KAR	Keskar Vana Metal Mak. Ltd. Sti.	Turkey	Middle East
-KAS	Kamstrup A/S	Denmark	Europe
-KAT	KATHREIN-Werke KG	Germany	Europe
-KAW	Kamstrup A/S	Denmark	Europe
-KBH	K. Biesinger GmbH	Germany	Europe
-KBK	KBK ELECTRONICS (PVT) LTD.	Pakistan	Asia
-KBL	Kimbal Private Limited	India	Asia
-KBN	Alpamis IT Ltd.	Turkey	Middle East
-KDN	KADEN-VODOMĚRY, s.r.o.	Czech Republic	Europe
-KDS	Kedros a.s.	Slovakia	Europe
-KEE	Keewe.co ltd.	Bulgaria	Europe
-KEL	KELEMINIC d.o.o.	Croatia	Europe
-KER	KERMS UG (haftungsbeschränkt)	Germany	Europe
-KES	Kavosh Electronic Sepahan	Iran	Middle East
-KEY	KEYTECH ELEKTRONÄ°K ANONÄ°M ÅÄ°RKETÄ°	Turkey	Middle East
-KFM	Shenzhen Kaifa Technology （Chengdu） Co., Ltd.	China	Asia
-KFM	Shenzhen Kaifa Technology Co., Ltd.	China	Asia
-KGE	Guangzhou Keli General Electric Co., Ltd.	China	Asia
-KHL	Kohler	Turkey	Middle East
-KIG	Kiwigrid GmbH Kleiststraße 10a-c	Germany	Europe
-KIT	KONCAR-Instrument transformers Inc.	Croatia	Europe
-KJN	Radniroo Industrial Co
-KKE	KK-Electronic A/S
-KKG	Katronic AG & Co. KG	Germany	Europe
-KLE	SHIJIAZHUANG KELIN ELECTRIC CO., LTD.	China	Asia
-KLK	Kerlink	France	Europe
-KMB	Kamstrup A/S	Denmark	Europe
-KMT	Krohne Messtechnik GmbH	Germany	Europe
-KNI	zhangzhou keneng electrical equipment co., ltd	China	Asia
-KNR	ISCIENTIFIC TECHSOLUTIONS LABS PRIVATE LIMITED	India	Asia
-KNX	KONNEX-based users (Siemens Regensburg)
-KPD	Korea Electric Power Industrial Development Co., Ltd.	South Korea	Asia
-KPL	KPLC Kenya Power	Kenya	Africa
-KRO	Kromschroder
-KRT	Karat	Russian Federation	Europe
-KSM	Korea Testing Certification	South Korea	Asia
-KST	Kundo SystemTechnik GmbH
-KSY	KUNDO SystemTechnik GmbH	Germany	Europe
-KTC	Kerman Tablo Co	Iran	Middle East
-KTL	Korea Testing Laboratory	South Korea	Asia
-KUK	"""KYRGYZ UNAA KURUUSH"" LLC"	Kyrgyzstan	Asia
-KVS	Klepsan Klape Vana ölçü aletleri San Tic Ltd Şti	Turkey	Middle East
-KWH	Zhejiang Songxia Electric Meter Co., Ltd	China	Asia
-KZK	KŘIŽÍK s.r.o.	Czech Republic	Europe
-LAC	Heinz Lackmann GmbH & Co KG	Germany	Europe
-LAI	Hangzhou LAISON Technology Co.,LTD	China	Asia
-LAN	Langmatz GmbH	Germany	Europe
-LAS	Lansen Systems AB	Sweden	Europe
-LCG	Landis+Gyr Meter & System (Zhuhai) Co., Ltd,	China	Asia
-LCR	ShanDong LiChuang Science and Technology Co.,Ltd.	China	Asia
-LDE	Shenzhen Londian Electrics Co., Ltd.	China	Asia
-LEC	Lectrotek Systems Pvt Ltd.	India	Asia
-LEI	PCP International Ltd	India	Asia
-LEM	LEM HEME Ltd.	United Kingdom	Europe
-LES	Lakshmi Electrical Control Systems Limited	India	Asia
-LET	LAN ENGINEERING & TECHNOLOGIES	India	Asia
-LFS	Payolcer Metering Devices	Turkey	Middle East
-LFX	LoggerFlex Smart Devices Ltd.	Canada	North America
-LGA	Landis+Gyr AG
-LGB	Landis+Gyr Ltd.	United Kingdom	Europe
-LGC	Landis+Gyr Equipamentos de Medição Ltda, Brasil	Brazil	South America
-LGD	Landis+Gyr GmbH	Germany	Europe
-LGE	Landis+Gyr PTE Ltd.	Singapore	Asia
-LGF	Landis+Gyr Oy	Finland	Europe
-LGG	Ningxia LGG Instrument Co., LTD	China	Asia
-LGI	Landis+Gyr Ltd.	India	Asia
-LGS	Landis+Gyr (Pty) Ltd.	South Africa	Africa
-LGU	LG Uplus Corp.	South Korea	Asia
-LGZ	Landis+Gyr AG	Switzerland	Europe
-LHA	Atlantic Meters	South Africa	Africa
-LIN	Ever Meter Co., Ltd	Myanmar	Asia
-LIT	Punos Electronic AB	Sweden	Europe
-LJP	Lars Jansen Productions	Netherlands	Europe
-LLM	LianYunGang LianLi·First Meter CO. LTD.	China	Asia
-LMC 	Lumacol s.r.o.	Slovakia	Europe
-LMG	Luftmeister GmbH	Germany	Europe
-LML	LUMEL	Poland	Europe
-LMP	LIN MAN POWER TECHNOLOGY,INC.	Philippines	Asia
-LMS	LMS Services GmbH	Germany	Europe
-LNC	Lancier Monitoring GmbH	Germany	Europe
-LNK	Loenk F9	South Korea	Asia
-LNT	Schneider Electric India Private Limited 	India	Asia
-LOB	Lobaro GmbH	Germany	Europe
-LOG	LOGAREX Smart Metering, s.r.o.	Czech Republic	Europe
-LOV	Lovato Electric S.p.A.	Italy	Europe
-LSC	Lund Science AB	Sweden	Europe
-LSE	Landis & Staefa electronic
-LSK	LS Industrial Systems Co Ltd.	South Korea	Asia
-LSP	Landis+Gyr GmbH	Germany	Europe
-LSZ	Siemens Building Technologies
-LTO	Labtrino AB	Sweden	Europe
-LUG	Landis+Gyr GmbH	Germany	Europe
-LUN	LUNA Elektrik Elektronik A.S.	Turkey	Middle East
-LUP	LUPUS-Electronics GmbH	Germany	Europe
-LWT	Lotus Wireless Technologies India Private Limited	India	Asia
-LYE	Jiangsu Linyang Electronics Co. Ltd.	China	Asia
-LZG	Lackmann Zähler Gesellschaft mbH & Co. KG	Germany	Europe
-MAC	RUDNAP Group Meter & Control	Serbia	Europe
-MAD	Maddalena S.p.A.	Italy	Europe
-MAE	Mates Elektronik Metin Ates	Turkey	Middle East
-MAG	MAGNATECH Smart Grid Solutions Pvt. Ltd.	India	Asia
-MAH	MAHAM ELECTRONIC SAMA SANAT
-MAN	Manthey GmbH	Germany	Europe
-MAS	Master Meter Teknoloji	Turkey	Middle East
-MAT	Mitsubishi Electric Automation	Thailand	Asia
-MAX	MAXMET Inc	South Korea	Asia
-MBH	MBH POWER GHANA LIMITED	Ghana	Africa
-MBS	MBS AG	Germany	Europe
-MCI	METERING AND COMMUNICATIONS SOLUTIONS PRIVATE LIMITED	India	Asia
-MCP	MPSE	Germany	Europe
-MCR	MICRORISC	Czech Republic	Europe
-MCS	MetCom Solutions GmbH	Germany	Europe
-MCV	SOCIÉTÉ MAROCAINE DES COMPTEURS -SMCV	Morocco	Africa
-MDA	PT.MELCOINDA	Indonesia	Asia
-MDE	Diehl Metering	Germany	Europe
-MDL	Maddalena S.p.A.	Italy	Europe
-MDT	Minnotra Energy India Pvt Ltd	India	Asia
-MDX	mdex AG	Germany	Europe
-MEC	Mitsubishi Electric Corporation	Japan	Asia
-MED	MAHARASHTRA STATE ELECTRICITY DISTRIBUTION COMPANY LIMITED	India	Asia
-MEE	Metron Europe	France	Europe
-MEH	Mueller-electronic GmbH	Germany	Europe
-MEI	Sensus Metering Systems	Germany	Europe
-MEL	Mikroelektronika a.d	Bosnia and Herzegovina	Europe
-MEM	MEMS AG	Switzerland	Europe
-MES	Electrometer Spain S.L.U.	Spain	Europe
-MET	METRA Energie-Messtechnik GmbH	Germany	Europe
-MEX	Metrix Italia s.r.l.	Italy	Europe
-MHT	Mechatronic Meters srl	Italy	Europe
-MIC	Microtronics Engineering GmbH	Austria	Europe
-MID	MiDo Srl	Italy	Europe
-MII	Apator Miitors ApS	Denmark	Europe
-MIJ	MAXWELL INDIA	India	Asia
-MIK	Mikroklima s.r.o.	Czech Republic	Europe
-MIL	Milur Smart System Limited liability company	Russian Federation	Europe
-MIM	Malaysian Intelligence Meters Sdn. Bhd.	Malaysia	Asia
-MIO	Metiundo GmbH	Germany	Europe
-MIR	MIR Research and Production Association	Russian Federation	Europe
-MIS	Iskra MIS d.d	Slovenia	Europe
-MIT	Sagemcom Energy & Telecom	France	Europe
-MIV	MIVO Technology AB	Sweden	Europe
-MKA	mirakonta	Germany	Europe
-MKE	MKEK Genel Mudurlugu Gazi Fisek (ELSA)	Turkey	Middle East
-MKL	MAKEL Elektrik Malzemeleri	Turkey	Middle East
-MKS	MAK-SAY Elektrik Elektronik	Turkey	Middle East
-MLQ	MeterLinq	Italy	Europe
-MLR	PKK Milandr	Russian Federation	Europe
-MMC	Modern Meters Co.	Syria	Middle East
-MMF	MEMF Electrical Industries Co.	Saudi Arabia	Middle East
-MMI	MyMeterInfo	France	Europe
-MMM	MATRICA Ltd
-MMP	MATRIXMETERS PVT. LTD.	India	Asia
-MMS	Brunswick Bowling and Billiards UK Ltd	United Kingdom	Europe
-MMT	METMOTEC	United Kingdom	Europe
-MNS	MANAS Elektronik	Turkey	Middle East
-MNW	MENOWATT GE SRL	Italy	Europe
-MOJ	Mojec International	Nigeria	Africa
-MOS	MOMAS SYSTEMS NIGERIA LIMITED	Nigeria	Africa
-MOT	The Motwane Manufacturing Company Private Limited	India	Asia
-MPA	Mega Power Automation International Limited	Hong Kong	Asia
-MPL	Metrona Polska Pomiary i Rozliczenia sp. z o.o.	Poland	Europe
-MPR	Michael Rac GmbH	Germany	Europe
-MPS	Multiprocessor Systems Ltd	Bulgaria	Europe
-MRN	"LLC ""RPC ""MEtRON"	Ukraine	Europe
-MRT	MIRTEK LTD.	Russian Federation	Europe
-MSB	MISA SDN BHD	Malaysia	Asia
-MSE	Mahashakti Energy Limited	India	Asia
-MSI	MIC ELECTRONICS LIMITED	India	Asia
-MSM	MS-M Co., Ltd.	South Korea	Asia
-MSO	Metiso	Serbia	Europe
-MST	Microsoft Taiwan Corporation	Taiwan	Asia
-MSY	MAK-SAY Elektrik Elektronik Malzemeleri	Turkey	Middle East
-MTC	Metering Technology Corporation
-MTD	Removed - November 2006	United States of America	North America
-MTE	The Egyptian German Co. for Water Meter Manufacturing (Metrotec Egypt)	Egypt	Middle East
-MTH	njmeter	China	Asia
-MTI	Microtech Industries Pakistan	Pakistan	Asia
-MTL	Advance Metering technology Limited	India	Asia
-MTM	Metrum Sweden AB	Sweden	Europe
-MTN	Merytronic 2012,S.L	Spain	Europe
-MTP	Modern Transformers Pvt. Ltd.	India	Asia
-MTR	METER	Russian Federation	Europe
-MTS	MeteRSit S.r.L.	Italy	Europe
-MTT	PT Metalindo Teratai Putra	Indonesia	Asia
-MTX	Matrix Energy Pvt. Ltd.	India	Asia
-MUK	Meters UK Ltd, Whitegate, White Lund Trading Estate	United Kingdom	Europe
-MWI	Magic Wand Intelligent Systems	India	Asia
-MWU	METRONA Union GmbH	Germany	Europe
-MXE	Hangzhou MingX technology Co.,LTD	China	Asia
-MXM	Maxim India Integrated Circuit Design Pvt Ltd.	India	Asia
-MYS	MODEMSYS S.L.	Spain	Europe
-NAE	Nanjing NengRui Automation Equipment Co., LTD.	China	Asia
-NAG	Networked Energy Services AG	Switzerland	Europe
-NAR	NARI Group Corporation-NARI Technology Development Co., Ltd	China	Asia
-NAS	NAS Instruments OÜ
-NAS	NAS Instruments OÜ	Estonia	Europe
-NAT	Natural Heat Ahorro Energetico SL	Spain	Europe
-NCK	NC Korea	South Korea	Asia
-NDF	NÚCLEO DURO FELGUERA	Spain	Europe
-NDM	Northern Design	United Kingdom	Europe
-NEE	Northern Electric Equipment Joint Stock Company	Vietnam	Asia
-NEI	NEWLECTRIC INNOVATION PRIVATE LIMITED	India	Asia
-NEO	NeoVac	Switzerland	Europe
-NER	Nero Electronics Ltd	Belarus	Europe
-NES	NORA ELK. MALZ. SAN. ve TİC. A.Ş.	Turkey	Middle East
-NET	Netatmo	France	Europe
-NEX	Nexelec	France	Europe
-NGP	Ngenic Poland Sp. z o.o.	Poland	Europe
-NIK	NIK-ELEKTRONIKA	Ukraine	Europe
-NIS	Nisko Industries	Israel	Middle East
-NJC	NAMJUN Co Ltd	South Korea	Asia
-NKS	N-ERGIE Kundenservice GmbH	Germany	Europe
-NLI	Next Level Integration GmbH	Germany	Europe
-NME	SI-ART LLC	Russian Federation	Europe
-NMG	NMG S.A.	Poland	Europe
-NMS	Nisko Advanced Metering Solutions	Israel	Middle East
-NMT	Nova-met s.r.o.	Czech Republic	Europe
-NNT	2N Telekomunikace a.s.	Czech Republic	Europe
+AAA	Company - 2554	Germany	Europe
+AAB	Company - 5246
+ABB	Company - 725	Sweden	Europe
+ABC	Company - 5275
+ABN	Company - 726	Germany	Europe
+ABR	Company - 727	Czech Republic	Europe
+ACA	Company - 728	France	Europe
+ACB	Company - 729	Taiwan	Asia
+ACC	Company - 730	Pakistan	Asia
+ACE	Company - 731	France	Europe
+ACG	Company - 732	France	Europe
+ACH	Company - 2555	Italy	Europe
+ACL	Company - 734	United Kingdom	Europe
+ACN	Company - 735	Switzerland	Europe
+ACS	Company - 736	China	Asia
+ACT	Company - 737	Germany	Europe
+ACW	Company - 738	France	Europe
+ADA	Company - 739	France	Europe
+ADD	Company - 740	Moldova	Europe
+ADE	Company - 741	China	Asia
+ADF	Company - 742	Italy	Europe
+ADN	Company - 743	Finland	Europe
+ADR	Company - 744	Romania	Europe
+ADU	Company - 745	Germany	Europe
+ADV	Company - 5216
+ADX	Company - 746	Moldova	Europe
+AEA	Company - 747	Iran	Middle East
+AEC	Company - 748	Saudi Arabia	Middle East
+AEE	Company - 749	Serbia	Europe
+AEG	Company - 750
+AEI	Company - 751	India	Asia
+AEL	Company - 752	Turkey	Middle East
+AEM	Company - 753	Romania	Europe
+AEN	Company - 8693	Nigeria	Africa
+AER	Company - 754	Germany	Europe
+AES	Company - 5054	Saudi Arabia	Middle East
+AFS	Company - 9006	Uzbekistan	Asia
+AFX	Company - 755	Netherlands	Europe
+AGE	Company - 756	Sweden	Europe
+AGI	Company - 8911	Indonesia	Asia
+AGT	Company - 757	India	Asia
+AHV	Company - 758	Germany	Europe
+AHX	Company - 5306	Iran	Middle East
+AIC	Company - 2605	India	Asia
+AIM	Company - 7353	China	Asia
+AKK	Company - 8750	Moldova	Europe
+AKU	Company - 8748	India	Asia
+ALC	Company - 759	Italy	Europe
+ALE	Company - 8823	China	Asia
+ALF	Company - 760	Turkey	Middle East
+ALG	Company - 761	Italy	Europe
+ALH	Company - 5055	Saudi Arabia	Middle East
+ALK	Company - 2602	Poland	Europe
+ALL	Company - 762	India	Asia
+ALP	Company - 5183	India	Asia
+ALR	Company - 763	Italy	Europe
+ALT	Company - 764	Germany	Europe
+ALV	Company - 765	Hungary	Europe
+AMB	Company - 766	Germany	Europe
+AMC	Company - 767	Taiwan	Asia
+AMD	Company - 768	South Korea	Asia
+AME	Company - 769	India	Asia
+AMG	Company - 2668	China	Asia
+AMH	Company - 770	United Kingdom	Europe
+AMI	Company - 771	India	Asia
+AML	Company - 772	India	Asia
+AMP	Company - 773
+AMR	Company - 774	Poland	Europe
+AMS	Company - 775	China	Asia
+AMT	Company - 776
+AMX	Company - 777	Poland	Europe
+ANA	Company - 778	Singapore	Asia
+AND	Company - 779	Slovakia	Europe
+ANE	Company - 8846	Czech Republic	Europe
+ANZ	Company - 5223
+AOM	Company - 780	Switzerland	Europe
+AON	Company - 781	Slovenia	Europe
+APA	Company - 782	Poland	Europe
+APL	Company - 783	Slovakia	Europe
+APO	Company - 2646	Germany	Europe
+APR	Company - 784	Bulgaria	Europe
+APS	Company - 785	Turkey	Middle East
+APT	Company - 786	Poland	Europe
+APX	Company - 787	Denmark	Europe
+AQA	Company - 5161	Germany	Europe
+AQL	Company - 788	South Africa	Africa
+AQM	Company - 789	Switzerland	Europe
+AQN	Company - 7532	Italy	Europe
+AQT	Company - 790	Poland	Europe
+AQU	Company - 791	Germany	Europe
+ARA	Company - 792	United Kingdom	Europe
+ARC	Company - 793	Turkey	Middle East
+ARD	Company - 794	Israel	Middle East
+ARE	Company - 9282	South Korea	Asia
+ARF	Company - 795	France	Europe
+ARG	Company - 5322	Russian Federation	Europe
+ARH	Company - 8911	Indonesia	Asia
+ARK	Company - 4794	Czech Republic	Europe
+ARM	Company - 796	Germany	Europe
+ARQ	Company - 8604	United Kingdom	Europe
+ARS	Company - 797	Bulgaria	Europe
+ART	Company - 798	Spain	Europe
+ARW	Company - 799	India	Asia
+ARX	Company - 8662	Malaysia	Asia
+ASA	Company - 800	Italy	Europe
+ASC	Company - 801	Italy	Europe
+ASD	Company - 5113	India	Asia
+ASG	Company - 5080	Saudi Arabia	Middle East
+ASH	Company - 5196	Saudi Arabia	Middle East
+ASJ	Company - 7342	India	Asia
+ASM	Company - 802	India	Asia
+ASR	Company - 803	Turkey	Middle East
+AST	Company - 804	Canada	North America
+ASY	Company - 8968	Germany	Europe
+ATA	Company - 8568	Turkey	Middle East
+ATC	Company - 9157	Saudi Arabia	Middle East
+ATE	Company - 9086	Thailand	Asia
+ATF	Company - 805	Turkey	Middle East
+ATI	Company - 806	India	Asia
+ATL	Company - 807	Turkey	Middle East
+ATM	Company - 808	Spain	Europe
+ATS	Company - 809	Turkey	Middle East
+AUR	Company - 2558	Netherlands	Europe
+AUT	Company - 5305	Poland	Europe
+AUX	Company - 810	China	Asia
+AVA	Company - 811	Russian Federation	Europe
+AVE	Company - 9021	India	Asia
+AXI	Company - 812	Lithuania	Europe
+AXS	Company - 813	Switzerland	Europe
+AYS	Company - 814	Turkey	Middle East
+AZE	Company - 815	Turkey	Middle East
+BAM	Company - 816	Germany	Europe
+BAR	Company - 817	Germany	Europe
+BAS	Company - 818	China	Asia
+BBE	Company - 819	India	Asia
+BBS	Company - 2614	Singapore	Asia
+BCE	Company - 820	China	Asia
+BCR	Company - 821	China	Asia
+BEA	Company - 5089	Germany	Europe
+BEE	Company - 822	India	Asia
+BEF	Company - 823	Germany	Europe
+BEG	Company - 824	Sweden	Europe
+BEL	Company - 5081	Bulgaria	Europe
+BEN	Company - 7378	Germany	Europe
+BER	Company - 825	Switzerland	Europe
+BFW	Company - 826	Germany	Europe
+BHG	Company - 827	Denmark	Europe
+BIM	Company - 8724	India	Asia
+BJY	Company - 828	China	Asia
+BKB	Company - 829	Sweden	Europe
+BKO	Company - 830	Turkey	Middle East
+BKT	Company - 831	Bosnia and Herzegovina	Europe
+BLM	Company - 5105	Switzerland	Europe
+BLU	Company - 832	Italy	Europe
+BMA	Company - 9292	Slovakia	Europe
+BME	Company - 833	Germany	Europe
+BMI	Company - 834	United States of America	North America
+BMP	Company - 835	Poland	Europe
+BMT	Company - 836	Italy	Europe
+BNR	Company - 837	China	Asia
+BOV	Company - 4810	China	Asia
+BPM	Company - 4994	India	Asia
+BRA	Company - 838	Germany	Europe
+BRC	Company - 7447	Germany	Europe
+BRN	Company - 4856	Iran	Middle East
+BRT	Company - 5048	Turkey	Middle East
+BRU	Company - 9066	Germany	Europe
+BSC	Company - 839	Iran	Middle East
+BSD	Company - 4767	Germany	Europe
+BSE	Company - 840	Turkey	Middle East
+BSI	Company - 7403	Germany	Europe
+BSM	Company - 2615	China	Asia
+BSP	Company - 841	South Korea	Asia
+BSS	Company - 842	Turkey	Middle East
+BST	Company - 843	Turkey	Middle East
+BSX	Company - 844	Germany	Europe
+BSY	Company - 9100	Turkey	Middle East
+BTA	Company - 2601	Turkey	Middle East
+BTL	Company - 845
+BTM	Company - 8645	India	Asia
+BTR	Company - 846	Germany	Europe
+BTS	Company - 847	Turkey	Middle East
+BUR	Company - 848	Germany	Europe
+BUY	Company - 7340	China	Asia
+BXC	Company - 849	China	Asia
+BYD	Company - 850	China	Asia
+BYL	Company - 851	Turkey	Middle East
+BYW	Company - 852	Turkey	Middle East
+BZR	Company - 853	Germany	Europe
+CAB	Company - 5123	Switzerland	Europe
+CAD	Company - 2636	Belgium	Europe
+CAH	Company - 854	France	Europe
+CAL	Company - 855	Italy	Europe
+CAN	Company - 8843	Indonesia	Asia
+CAR	Company - 856	France	Europe
+CAT	Company - 857	Finland	Europe
+CAV	Company - 858	Poland	Europe
+CBF	Company - 9007	Saudi Arabia	Middle East
+CBI	Company - 859	South Africa	Africa
+CBS	Company - 860	Denmark	Europe
+CCP	Company - 7439	Canada	North America
+CCS	Company - 861	India	Asia
+CDA	Company - 2710	India	Asia
+CDL	Company - 862	United Kingdom	Europe
+CDT	Company - 7360	India	Asia
+CEB	Company - 863	Norway	Europe
+CED	Company - 8618	France	Europe
+CEG	Company - 7376	Germany	Europe
+CEH	Company - 8725	Iran	Middle East
+CEL	Company - 864	Pakistan	Asia
+CEM	Company - 865	Turkey	Middle East
+CET	Company - 866	Turkey	Middle East
+CFL	Company - 9148	Pakistan	Asia
+CGC	Company - 867	Romania	Europe
+CGO	Company - 868	Italy	Europe
+CHA	Company - 9054	Taiwan	Asia
+CHC	Company - 869	South Korea	Asia
+CHE	Company - 870	China	Asia
+CHM	Company - 871	Taiwan	Asia
+CHS	Company - 2606	Switzerland	Europe
+CIC	Company - 8563	Taiwan	Asia
+CIR	Company - 872	Spain	Europe
+CJS	Company - 2592	United Kingdom	Europe
+CKT	Company - 5136	Turkey	Middle East
+CLA	Company - 2573	India	Asia
+CLB	Company - 873	Italy	Europe
+CLE	Company - 874	China	Asia
+CLO	Company - 875
+CLS	Company - 4885	Germany	Europe
+CLT	Company - 876	China	Asia
+CLX	Company - 8597	Turkey	Middle East
+CLY	Company - 877	Sweden	Europe
+CMC	Company - 878	Slovenia	Europe
+CMP	Company - 879	South Korea	Asia
+CMS	Company - 5244
+CMT	Company - 880	China	Asia
+CMV	Company - 881	United States of America	North America
+CNM	Company - 882	South Korea	Asia
+CNU	Company - 2587	South Korea	Asia
+COH	Company - 883	United Kingdom	Europe
+COM	Company - 884	Poland	Europe
+CON	Company - 885
+CPG	Company - 886	Germany	Europe
+CPL	Company - 887	Italy	Europe
+CPO	Company - 888	Spain	Europe
+CPS	Company - 889	India	Asia
+CQC	Company - 890	China	Asia
+CRD	Company - 2616	France	Europe
+CRT	Company - 891	France	Europe
+CRW	Company - 892	China	Asia
+CRX	Company - 5016	Canada	North America
+CRY	Company - 893	India	Asia
+CSC	Company - 894	Japan	Asia
+CSL	Company - 2563	Finland	Europe
+CSP	Company - 895	Italy	Europe
+CSW	Company - 8817	Portugal	Europe
+CTE	Company - 896	Italy	Europe
+CTL	Company - 897	United Kingdom	Europe
+CTP	Company - 8883	India	Asia
+CTQ	Company - 898	Netherlands	Europe
+CTR	Company - 899	Portugal	Europe
+CTT	Company - 900	Switzerland	Europe
+CTX	Company - 901	Germany	Europe
+CUB	Company - 9106	China	Asia
+CUC	Company - 902	Germany	Europe
+CUR	Company - 903	United States of America	North America
+CWA	Company - 904	Sweden	Europe
+CWI	Company - 905	Sweden	Europe
+CWV	Company - 906	China	Asia
+CYE	Company - 907	China	Asia
+CYI	Company - 908	China	Asia
+CYN	Company - 909	Germany	Europe
+CZA	Company - 910	Spain	Europe
+CZM	Company - 911
+DAE	Company - 912	Italy	Europe
+DAF	Company - 913	Turkey	Middle East
+DAN	Company - 914
+DBD	Company - 8935	India	Asia
+DBE	Company - 915	India	Asia
+DCD	Company - 916	India	Asia
+DCO	Company - 7419	Iran	Middle East
+DCZ	Company - 8924	Germany	Europe
+DDE	Company - 917	Italy	Europe
+DDI	Company - 918	India	Asia
+DDL	Company - 919	South Korea	Asia
+DDM	Company - 9186	France	Europe
+DEA	Company - 920	Italy	Europe
+DEC	Company - 921	Serbia	Europe
+DEI	Company - 8851	India	Asia
+DEL	Company - 922	Germany	Europe
+DEN	Company - 4838	Italy	Europe
+DES	Company - 923	Turkey	Middle East
+DEV	Company - 924	Denmark	Europe
+DFE	Company - 925	China	Asia
+DFS	Company - 2617
+DGC	Company - 926	Italy	Europe
+DGI	Company - 4841
+DGM	Company - 927	Germany	Europe
+DGY	Company - 928	Germany	Europe
+DHA	Company - 929	China	Asia
+DHQ	Company - 930	China	Asia
+DIE	Company - 931	Germany	Europe
+DIG	Company - 2560	Germany	Europe
+DIL	Company - 932	India	Asia
+DJA	Company - 933	Belgium	Europe
+DKY	Company - 934	China	Asia
+DLX	Company - 4993	China	Asia
+DMC	Company - 935	United Arab Emirates	Middle East
+DME	Company - 936	Germany	Europe
+DMG	Company - 8981	Germany	Europe
+DMI	Company - 8849	Netherlands	Europe
+DMO	Company - 7510	Germany	Europe
+DMP	Company - 937	South Korea	Asia
+DMS	Company - 938	India	Asia
+DNB	Company - 939	Iran	Middle East
+DNC	Company - 8848	South Korea	Asia
+DNO	Company - 940	Croatia	Europe
+DNT	Company - 941	Germany	Europe
+DNV	Company - 942	Netherlands	Europe
+DOJ	Company - 7420	China	Asia
+DOM	Company - 943	Czech Republic	Europe
+DOS	Company - 944	Kenya	Africa
+DPM	Company - 5192
+DPP	Company - 945	India	Asia
+DRC	Company - 5318	South Korea	Asia
+DRP	Company - 8943	India	Asia
+DRT	Company - 946	Italy	Europe
+DSE	Company - 947	India	Asia
+DSM	Company - 9042	Turkey	Middle East
+DST	Company - 2574	China	Asia
+DTE	Company - 8794	Denmark	Europe
+DUA	Company - 948	Switzerland	Europe
+DUS	Company - 7384	Germany	Europe
+DVE	Company - 9032	Morocco	Africa
+DVG	Company - 7336	Germany	Europe
+DVL	Company - 949	Germany	Europe
+DWT	Company - 9312	China	Asia
+DWY	Company - 7396	United States of America	North America
+DWZ	Company - 950	Germany	Europe
+DZG	Company - 951	Germany	Europe
+EAA	Company - 952	Iran	Middle East
+EAD	Company - 5252
+EAH	Company - 953	Germany	Europe
+EAS	Company - 954	Turkey	Middle East
+EBE	Company - 7497	Sweden	Europe
+EBK	Company - 955	Germany	Europe
+EBV	Company - 956	Germany	Europe
+EBZ	Company - 957	Germany	Europe
+ECA	Company - 958	France	Europe
+ECB	Company - 8820	Saudi Arabia	Middle East
+ECC	Company - 959	Saudi Arabia	Middle East
+ECH	Company - 960	United States of America	North America
+ECI	Company - 8819	India	Asia
+ECL	Company - 961	India	Asia
+ECM	Company - 962	Poland	Europe
+ECO	Company - 963	France	Europe
+ECS	Company - 964	Italy	Europe
+ECT	Company - 9189	Oman	Middle East
+EDI	Company - 965	Italy	Europe
+EDM	Company - 966
+EDP	Company - 8827	United Kingdom	Europe
+EEC	Company - 967	Poland	Europe
+EEE	Company - 968	Italy	Europe
+EEI	Company - 8810	India	Asia
+EEM	Company - 7507	India	Asia
+EEO	Company - 969	India	Asia
+EEP	Company - 2561	India	Asia
+EES	Company - 2704	Brazil	South America
+EFA	Company - 970	Portugal	Europe
+EFE	Company - 971	Germany	Europe
+EFI	Company - 972	Spain	Europe
+EFN	Company - 973	Germany	Europe
+EFR	Company - 974	Germany	Europe
+EFS	Company - 975	France	Europe
+EFX	Company - 9263	India	Asia
+EGA	Company - 976	Sweden	Europe
+EGC	Company - 977	Iran	Middle East
+EGD	Company - 978	Sweden	Europe
+EGM	Company - 979	Lithuania	Europe
+EGO	Company - 9228	Germany	Europe
+EGP	Company - 9133	Egypt	Middle East
+EGT	Company - 7478	Japan	Asia
+EGW	Company - 980	Germany	Europe
+EGY	Company - 981	Egypt	Middle East
+EHL	Company - 982
+EHS	Company - 8893	Germany	Europe
+EIC	Company - 9257	Saudi Arabia	Middle East
+EIE	Company - 983	Ireland	Europe
+EIG	Company - 7424	Germany	Europe
+EIP	Company - 2718	India	Asia
+EIS	Company - 8988	Botswana	Africa
+EIT	Company - 984	Belgium	Europe
+EKA	Company - 985	United States of America	North America
+EKF	Company - 8683	Russian Federation	Europe
+EKO	Company - 986	France	Europe
+EKS	Company - 5265
+EKT	Company - 987	Russian Federation	Europe
+ELC	Company - 4881	Russian Federation	Europe
+ELD	Company - 988	Turkey	Middle East
+ELE	Company - 989	United States of America	North America
+ELG	Company - 990	Czech Republic	Europe
+ELK	Company - 9353	Turkey	Middle East
+ELL	Company - 5109	Russian Federation	Europe
+ELM	Company - 991	Turkey	Middle East
+ELO	Company - 992	Brazil	South America
+ELP	Company - 7417	Iran	Middle East
+ELQ	Company - 993	Germany	Europe
+ELR	Company - 994	United Kingdom	Europe
+ELS	Company - 995	Germany	Europe
+ELT	Company - 996	Germany	Europe
+ELU	Company - 9161	Turkey	Middle East
+ELV	Company - 997	Sweden	Europe
+ELY	Company - 8993	Sweden	Europe
+EMB	Company - 998	Italy	Europe
+EMC	Company - 999	Switzerland	Europe
+EME	Company - 1000	Romania	Europe
+EMF	Company - 1001	Germany	Europe
+EMH	Company - 1002
+EMI	Company - 1003	Spain	Europe
+EML	Company - 1004	United Kingdom	Europe
+EMM	Company - 1005	Australia	Australia & Oceania
+EMO	Company - 1006
+EMP	Company - 9331	Poland	Europe
+EMR	Company - 1007	Russian Federation	Europe
+EMS	Company - 1008	Switzerland	Europe
+EMT	Company - 1009	Germany	Europe
+EMU	Company - 1010	Switzerland	Europe
+EMX	Company - 9470	Thailand	Asia
+ENC	Company - 7484	China	Asia
+END	Company - 1011
+ENE	Company - 1012	France	Europe
+ENG	Company - 1013	United Kingdom	Europe
+ENH	Company - 1014	Germany	Europe
+ENI	Company - 1015	Germany	Europe
+ENL	Company - 1016	Serbia	Europe
+ENM	Company - 9163	India	Asia
+ENN	Company - 2607	South Korea	Asia
+ENO	Company - 1017	Germany	Europe
+ENP	Company - 1018
+ENQ	ENQT GmbH	Germany	Europe
+ENR	Company - 1019
+ENS	Company - 1020	Germany	Europe
+ENT	Company - 1021	Turkey	Middle East
+ENX	Company - 1022	Germany	Europe
+EPI	Company - 1023	South Africa	Africa
+EPL	Company - 1024	Pakistan	Asia
+EPM	Company - 9348	South Africa	Africa
+EPT	Company - 8802	Spain	Europe
+ERE	Company - 1025	South Africa	Africa
+ERI	Company - 1026	India	Asia
+ERL	Company - 1027	Turkey	Middle East
+ERN	Company - 1028	Italy	Europe
+ERS	Company - 1029	Bulgaria	Europe
+ERW	Company - 8653	India	Asia
+ESA	Company - 1030	Italy	Europe
+ESC	Company - 1031	China	Asia
+ESD	Company - 4800	United Arab Emirates	Middle East
+ESE	Company - 1032	Sweden	Europe
+ESG	Company - 1033	South Korea	Asia
+ESH	Company - 5069	Germany	Europe
+ESI	Company - 1034	Turkey	Middle East
+ESL	Company - 8781	India	Asia
+ESM	Company - 1035	Turkey	Middle East
+ESN	Company - 5177	China	Asia
+ESO	Company - 1036	Turkey	Middle East
+ESP	Company - 5316	India	Asia
+ESR	Company - 4910	Switzerland	Europe
+ESS	Company - 1037	Ukraine	Europe
+ESV	Company - 5086	Turkey	Middle East
+ESX	Company - 9349	Norway	Europe
+ESY	Company - 1038
+ETD	Company - 3759	Italy	Europe
+ETK	Company - 5088	Croatia	Europe
+ETO	Company - 2569	Russian Federation	Europe
+ETP	Company - 5290
+EUE	Company - 1039	Austria	Europe
+EUR	Company - 1040
+EUS	Company - 1041	Germany	Europe
+EVD	Company - 1042	Germany	Europe
+EVK	Company - 1043	Turkey	Middle East
+EVL	Company - 1044	United Kingdom	Europe
+EVT	Company - 9081	South Korea	Asia
+EWA	Company - 1045	France	Europe
+EWE	Company - 8631	Germany	Europe
+EWG	Company - 1046	Serbia	Europe
+EWS	Company - 5267
+EWT	Company - 1047	Germany	Europe
+EXS	Company - 1048	Germany	Europe
+EXT	Company - 1049	Slovenia	Europe
+EYA	Company - 1306	South Africa	Africa
+EYB	Company - 1301	United Kingdom	Europe
+EYE	Company - 1050	United Kingdom	Europe
+EYF	Company - 1304	Finland	Europe
+EYK	Company - 1326	Germany	Europe
+EYS	Company - 1326	Germany	Europe
+EYT	Company - 1051
+EYZ	Company - 5217	Switzerland	Europe
+EZL	Company - 9293	India	Asia
+FAC	Company - 7385	United Kingdom	Europe
+FAE	Company - 1052	Brazil	South America
+FAN	Company - 1053	Italy	Europe
+FAR	Company - 1054	Iran	Middle East
+FAS	Company - 1055	Italy	Europe
+FAT	Company - 9269	Iran	Middle East
+FED	Company - 1056	Turkey	Middle East
+FEI	Company - 8891	India	Asia
+FEM	Company - 2552	Taiwan	Asia
+FFD	Company - 1057	Germany	Europe
+FID	Company - 1058	Turkey	Middle East
+FIM	Company - 1059	Bulgaria	Europe
+FIN	Company - 1060	Germany	Europe
+FIO	Company - 1061	Italy	Europe
+FLA	Company - 1062	India	Asia
+FLD	Company - 1063	France	Europe
+FLE	Company - 1064	China	Asia
+FLG	Company - 1065	Czech Republic	Europe
+FLO	Company - 1066	Denmark	Europe
+FLS	Company - 1067	Turkey	Middle East
+FLU	Company - 1068	China	Asia
+FLW	Company - 1069	Netherlands	Europe
+FLX	Company - 1070	Germany	Europe
+FMG	Company - 1071	Netherlands	Europe
+FML	Company - 1072
+FMM	Company - 1073	Italy	Europe
+FND	Company - 9040	Bulgaria	Europe
+FNF	Company - 8613	Poland	Europe
+FNX	Company - 1074	United Kingdom	Europe
+FOX	Company - 9091	Poland	Europe
+FPL	Company - 1075	Belgium	Europe
+FPR	Company - 1076	Belarus	Europe
+FRC	Company - 5269
+FRE	Company - 1077	Italy	Europe
+FRT	Company - 9290	Germany	Europe
+FRU	Company - 1078	Russian Federation	Europe
+FSE	Company - 7408	South Africa	Africa
+FSP	Company - 1079	Italy	Europe
+FST	Company - 1080	United States of America	North America
+FSY	Company - 1081	Poland	Europe
+FTL	Company - 1082	Germany	Europe
+FUN	Company - 8882	Norway	Europe
+FUS	Company - 1083	China	Asia
+FUT	Company - 1084	United Kingdom	Europe
+FWS	Company - 1085	Germany	Europe
+FYL	Company - 9298	China	Asia
+FZK	Company - 1086	South Korea	Asia
+GAT	Company - 5317	India	Asia
+GAV	Company - 1087	Italy	Europe
+GBJ	Company - 1088
+GBX	Company - 9126	United States of America	North America
+GCE	Company - 1089	Venezuela	South America
+GCG	Company - 2609	China	Asia
+GCT	Company - 9256	India	Asia
+GCX	Company - 8871	Germany	Europe
+GDC	Company - 5187
+GDS	Company - 2578	Switzerland	Europe
+GEC	Company - 1090
+GEE	Company - 1091	United Kingdom	Europe
+GEL	Company - 1092	Taiwan	Asia
+GEN	Company - 1093
+GEO	Company - 1094	United Kingdom	Europe
+GEP	Company - 5264
+GET	Company - 1095	India	Asia
+GEX	Company - 1096	Tunisia	Africa
+GFM	Company - 1097	Japan	Asia
+GIL	Company - 1098	India	Asia
+GIN	Company - 1099	Bulgaria	Europe
+GIO	Company - 1100	Italy	Europe
+GKA	Company - 9033	Thailand	Asia
+GKM	Company - 8795	Malaysia	Asia
+GLM	Company - 1101	France	Europe
+GLO	Company - 8561	Poland	Europe
+GLX	Company - 1102	Vietnam	Asia
+GMC	Company - 1103	Germany	Europe
+GME	Company - 1104	Netherlands	Europe
+GMM	Company - 1105	Egypt	Middle East
+GMS	Company - 5301	Iran	Middle East
+GMT	Company - 1106	Germany	Europe
+GNP	Company - 7361	India	Asia
+GNY	Company - 1107	China	Asia
+GOE	Company - 1108	India	Asia
+GOM	Company - 9101	China	Asia
+GOT	Company - 7476	Poland	Europe
+GPM	Company - 1109	India	Asia
+GPT	Company - 7486	China	Asia
+GRA	Company - 1110	Germany	Europe
+GRD	Company - 5219
+GRE	Company - 1111	Portugal	Europe
+GRI	Company - 1112	South Africa	Africa
+GRN	Company - 7393	South Korea	Asia
+GRP	Company - 5087	Poland	Europe
+GRS	Company - 2568	Germany	Europe
+GRU	Company - 8675	South Korea	Asia
+GRV	Company - 9117	Turkey	Middle East
+GRX	Company - 1113	Finland	Europe
+GSD	Company - 7501	India	Asia
+GSE	Company - 7362	Italy	Europe
+GSP	Company - 1114
+GSS	Company - 1115	Belarus	Europe
+GST	Company - 1116	China	Asia
+GTE	Company - 1117	Germany	Europe
+GTM	Company - 1118	Italy	Europe
+GTR	Company - 1119	Egypt	Middle East
+GTS	Company - 1120	Germany	Europe
+GUH	Company - 1121	China	Asia
+GVL	Company - 7490	Netherlands	Europe
+GWF	Company - 1122	Switzerland	Europe
+GWI	Company - 1123	United Kingdom	Europe
+HAG	Company - 1124	Germany	Europe
+HAK	Company - 4879	Slovakia	Europe
+HBY	Company - 1125	China	Asia
+HCE	Company - 1126	China	Asia
+HCM	Company - 7375	Spain	Europe
+HDA	Company - 9128	Slovenia	Europe
+HDK	Company - 5011	Belgium	Europe
+HDX	Company - 1127	China	Asia
+HDY	Company - 1128	China	Asia
+HEG	Company - 1129
+HEI	Company - 1130	Poland	Europe
+HEK	Company - 1131	Kenya	Africa
+HEL	Company - 1132
+HEM	Company - 1133	Japan	Asia
+HEN	Company - 9352	China	Asia
+HER	Company - 1134	Australia	Australia & Oceania
+HEW	Company - 2608	China	Asia
+HEX	Company - 1135	China	Asia
+HFI	Company - 1136	China	Asia
+HFL	Company - 5278
+HFR	Company - 1137	China	Asia
+HGM	Company - 1138	Denmark	Europe
+HGP	Company - 9045	China	Asia
+HHE	Company - 5171	Germany	Europe
+HHM	Company - 5139	China	Asia
+HIE	Company - 1139	China	Asia
+HIN	Company - 5102	Germany	Europe
+HIT	Company - 2657	Poland	Europe
+HJM	Company - 4891	China	Asia
+HKK	Company - 1140	Japan	Asia
+HKT	Company - 8822	Sweden	Europe
+HLD	Company - 8922	United Kingdom	Europe
+HLE	Company - 9064	China	Asia
+HLT	Company - 9127	China	Asia
+HLY	Company - 2618
+HMD	Company - 9350	China	Asia
+HMI	Company - 1141	Taiwan	Asia
+HML	Company - 1142	China	Asia
+HMS	Company - 1143	Australia	Australia & Oceania
+HMT	Company - 5008	China	Asia
+HMU	Company - 1144	Germany	Europe
+HNA	Company - 8812	Iran	Middle East
+HND	Company - 1145	China	Asia
+HNN	Company - 8814	Iran	Middle East
+HOE	Company - 1146	Germany	Europe
+HOL	Company - 1147	Croatia	Europe
+HON	Company - 1148	Switzerland	Europe
+HOP	Company - 9064	China	Asia
+HOY	Company - 1149	India	Asia
+HPL	Company - 1150	India	Asia
+HPM	Company - 1151	China	Asia
+HQL	Company - 8686	India	Asia
+HRM	Company - 1152	China	Asia
+HRS	Company - 1153	France	Europe
+HRZ	Company - 8986	Germany	Europe
+HSD	Company - 1154	China	Asia
+HST	Company - 1155
+HSX	Company - 8681	Germany	Europe
+HTC	Company - 1156
+HTE	Company - 8804	Romania	Europe
+HTI	Company - 1157	China	Asia
+HTL	Company - 1158	Germany	Europe
+HTS	Company - 1159
+HTY	Company - 9222	Italy	Europe
+HUK	Company - 1160	Germany	Europe
+HUM	Company - 7341	Ghana	Africa
+HVG	Company - 2584	Germany	Europe
+HVT	Company - 1161	Switzerland	Europe
+HWC	Company - 1162	China	Asia
+HWM	Company - 1163	China	Asia
+HWT	Company - 1164	China	Asia
+HXD	Company - 1165	China	Asia
+HXE	Company - 1167	China	Asia
+HXT	Company - 7513	China	Asia
+HXW	Company - 1168	China	Asia
+HYC	Company - 7537	China	Asia
+HYD	Company - 1166	Germany	Europe
+HYE	Company - 1169	China	Asia
+HYG	Company - 1170	Germany	Europe
+HYM	Company - 8661	China	Asia
+HYS	Company - 5221
+HYT	Company - 8660	China	Asia
+HZC	Company - 1171	China	Asia
+HZI	Company - 1172	China	Asia
+HZZ	Company - 1173	China	Asia
+IAC	Company - 1174	Kenya	Africa
+IBE	Company - 1175	India	Asia
+IBG	Company - 2553	India	Asia
+IBT	Company - 7538	Turkey	Middle East
+ICB	Company - 1176	South Korea	Asia
+ICE	Company - 5315	United States of America	North America
+ICK	Company - 2586	South Korea	Asia
+ICM	Company - 2619	Greece	Europe
+ICP	Company - 1177	Indonesia	Asia
+ICS	Company - 1178	India	Asia
+ICT	Company - 1179	Germany	Europe
+ICU	Company - 1180	Switzerland	Europe
+IDE	Company - 1181
+IDS	Company - 1182	Germany	Europe
+IEC	Company - 1183	Ukraine	Europe
+IEE	Company - 1184	Spain	Europe
+IEI	Company - 1185	India	Asia
+IEN	Company - 2647	Poland	Europe
+IES	Company - 1186	China	Asia
+IFC	Company - 1187	Montenegro	Europe
+IFX	Company - 1188	Germany	Europe
+IGE	Company - 8796	India	Asia
+IGM	Company - 7496	Italy	Europe
+IGR	Company - 1189	Germany	Europe
+IGS	Company - 1190	Italy	Europe
+IHD	InHand Networks, Inc.	United States of America	North America
+IHM	Company - 1191	China	Asia
+IID	Company - 4865
+IID	Company - 4871	Indonesia	Asia
+IIF	Company - 2688	Germany	Europe
+IJE	Company - 1192	South Korea	Asia
+IJK	Company - 1193	France	Europe
+IKE	Company - 1194	Germany	Europe
+IKM	Company - 1195	Croatia	Europe
+IKO	Company - 9073	Turkey	Middle East
+IKS	Company - 1196	Spain	Europe
+IMC	Company - 1197	Iran	Middle East
+IME	Company - 1198	Poland	Europe
+IMR	Company - 4894	Ukraine	Europe
+IMS	Company - 1199	Germany	Europe
+IMT	Company - 1776	Switzerland	Europe
+IMZ	Company - 4992	India	Asia
+INC	Company - 1200	Russian Federation	Europe
+IND	Company - 1201	Spain	Europe
+INE	Company - 1202	Germany	Europe
+INF	Company - 1203	Sweden	Europe
+INH	Beijing InHand Networks Technology Co., Ltd.	China	Asia
+INI	Company - 1204	Sweden	Europe
+INM	Company - 1205	Netherlands	Europe
+INN	Company - 1206	United States of America	North America
+INO	Company - 1207	India	Asia
+INP	Company - 1208	Germany	Europe
+INS	Company - 1209	Germany	Europe
+INT	Company - 1210	Germany	Europe
+INU	Company - 9388	South Africa	Africa
+INV	Company - 1211	Germany	Europe
+INX	Company - 1212	Netherlands	Europe
+IOM	Company - 8845	Germany	Europe
+ION	Company - 7462	Philippines	Asia
+IOT	Company - 1213	Canada	North America
+IPD	Company - 1214	Australia	Australia & Oceania
+IQO	Company - 7371	Netherlands	Europe
+IQS	Company - 4928	South Africa	Africa
+IRE	Company - 1215	Italy	Europe
+ISA	Company - 1216	Germany	Europe
+ISE	Company - 1217	India	Asia
+ISF	Company - 1218	Poland	Europe
+ISI	Company - 1219	Serbia	Europe
+ISK	Company - 1220	Slovenia	Europe
+ISO	Company - 1221	Italy	Europe
+ISS	Company - 1222	Slovenia	Europe
+IST	Company - 1223
+ISW	Company - 7457	Germany	Europe
+ITA	Company - 1224	Switzerland	Europe
+ITB	Company - 1225	Brazil	South America
+ITC	Company - 1226	Tunisia	Africa
+ITE	Company - 1227	France	Europe
+ITF	Company - 1228	Germany	Europe
+ITG	Company - 1229	France	Europe
+ITH	Company - 1230	Croatia	Europe
+ITI	Company - 1231	Indonesia	Asia
+ITK	Company - 1232	Germany	Europe
+ITL	Company - 2585	India	Asia
+ITM	Company - 8614	Pakistan	Asia
+ITP	Company - 2577	India	Asia
+ITR	Company - 1233
+ITS	Company - 1234	Australia	Australia & Oceania
+ITU	Company - 1235	United States of America	North America
+ITW	Company - 1236	France	Europe
+ITX	Company - 1237	United Arab Emirates	Middle East
+ITZ	Company - 1238	South Africa	Africa
+IUS	Company - 1239	Mexico	North America
+IVY	Company - 5146	China	Asia
+IWD	Company - 5070	Ireland	Europe
+IWK	Company - 1240
+IYI	Company - 1241	Turkey	Middle East
+IZE	Company - 1242	Sweden	Europe
+JAC	Company - 1243	India	Asia
+JAN	Company - 1244	Germany	Europe
+JBF	Company - 5248
+JCE	Company - 1245	Portugal	Europe
+JED	Company - 1246	South Korea	Asia
+JGD	Company - 1247	China	Asia
+JGF	Company - 1248	Portugal	Europe
+JGH	Company - 4979	South Korea	Asia
+JHA	Company - 1249	China	Asia
+JHM	Company - 1250	China	Asia
+JJN	Company - 1251	China	Asia
+JKW	Company - 1252	China	Asia
+JMA	Company - 8880	China	Asia
+JMT	Company - 1253	Poland	Europe
+JMV	Company - 9252	India	Asia
+JNC	Company - 2570	China	Asia
+JND	Company - 7430	South Korea	Asia
+JNJ	Company - 1774	India	Asia
+JOY	Company - 1254	China	Asia
+JPM	Company - 7528	India	Asia
+JSM	Company - 1255	China	Asia
+JSO	Company - 1256	Germany	Europe
+JST	Company - 9080	South Korea	Asia
+JUM	Company - 1257	Germany	Europe
+JWH	Company - 1258	China	Asia
+JWR	Company - 1259	China	Asia
+JWS	Company - 1260	China	Asia
+JXH	Company - 9232	China	Asia
+JYS	Company - 1261	China	Asia
+KAA	Company - 1262	Denmark	Europe
+KAC	Company - 5057	Russian Federation	Europe
+KAL	Company - 5234
+KAM	Company - 1263
+KAR	Company - 2579	Turkey	Middle East
+KAS	Company - 1264	Denmark	Europe
+KAT	Company - 1265	Germany	Europe
+KAW	Company - 1266	Denmark	Europe
+KBH	Company - 1267	Germany	Europe
+KBK	Company - 1268	Pakistan	Asia
+KBL	Company - 8928	India	Asia
+KBN	Company - 1269	Turkey	Middle East
+KDN	Company - 2599	Czech Republic	Europe
+KDS	Company - 1270	Slovakia	Europe
+KEA	Company - 9272	Singapore	Asia
+KEE	Company - 1271	Bulgaria	Europe
+KEL	Company - 1272	Croatia	Europe
+KER	Company - 1273	Germany	Europe
+KES	Company - 1274	Iran	Middle East
+KEY	Company - 9132	Turkey	Middle East
+KFM	Company - 1276	China	Asia
+KFM	Company - 1275	China	Asia
+KGE	Company - 1277	China	Asia
+KHL	Company - 1278	Turkey	Middle East
+KIG	Company - 1279	Germany	Europe
+KIT	Company - 8806	Croatia	Europe
+KJN	Company - 5218
+KKE	Company - 1280
+KKG	Company - 7427	Germany	Europe
+KLE	Company - 1281	China	Asia
+KLK	Company - 1282	France	Europe
+KMB	Company - 1283	Denmark	Europe
+KMT	Company - 1284	Germany	Europe
+KNI	Company - 1285	China	Asia
+KNR	Company - 8799	India	Asia
+KNX	Company - 1286
+KPD	Company - 2600	South Korea	Asia
+KPL	Company - 9138	Kenya	Africa
+KRO	Company - 1287
+KRT	Company - 1288	Russian Federation	Europe
+KSM	Company - 2659	South Korea	Asia
+KST	Company - 1289
+KSY	Company - 1290	Germany	Europe
+KTC	Company - 1291	Iran	Middle East
+KTE	Company - 9300	Turkey	Middle East
+KTL	Company - 7464	South Korea	Asia
+KUK	Company - 7390	Kyrgyzstan	Asia
+KUL	Company - 9193	Turkey	Middle East
+KVS	Company - 9010	Turkey	Middle East
+KWH	Company - 8565	China	Asia
+KYN	Company - 9168	Poland	Europe
+KZK	Company - 6328	Czech Republic	Europe
+LAC	Company - 1292	Germany	Europe
+LAI	Company - 2690	China	Asia
+LAN	Company - 1293	Germany	Europe
+LAS	Company - 1294	Sweden	Europe
+LCG	Company - 1295	China	Asia
+LCR	Company - 1296	China	Asia
+LDE	Company - 1297	China	Asia
+LDT	Company - 9303	China	Asia
+LEC	Company - 1298	India	Asia
+LEI	Company - 2716	India	Asia
+LEM	Company - 1299	United Kingdom	Europe
+LES	Company - 5131	India	Asia
+LET	Company - 4764	India	Asia
+LFS	Company - 1300	Turkey	Middle East
+LFX	Company - 8641	Canada	North America
+LGA	Company - 1308	Switzerland	Europe
+LGB	Company - 1301	United Kingdom	Europe
+LGC	Company - 1302	Brazil	South America
+LGD	Company - 1303	Germany	Europe
+LGE	Company - 7423	Singapore	Asia
+LGF	Company - 1304	Finland	Europe
+LGG	Company - 1305	China	Asia
+LGI	Company - 5302	India	Asia
+LGS	Company - 1306	South Africa	Africa
+LGU	Company - 1307	South Korea	Asia
+LGZ	Company - 5217	Switzerland	Europe
+LHA	Company - 1309	South Africa	Africa
+LIN	Company - 2594	Myanmar	Asia
+LIQ	Company - 9028	China	Asia
+LIT	Company - 1310	Sweden	Europe
+LJP	Company - 1311	Netherlands	Europe
+LLM	Company - 1312	China	Asia
+LMC 	Company - 1313	Slovakia	Europe
+LMG	Company - 1314	Germany	Europe
+LML	Company - 1315	Poland	Europe
+LMP	Company - 4880	Philippines	Asia
+LMS	Company - 2598	Germany	Europe
+LNC	Company - 1316	Germany	Europe
+LNK	Company - 1317	South Korea	Asia
+LNT	Company - 1318	India	Asia
+LOB	Company - 4954	Germany	Europe
+LOG	Company - 1319	Czech Republic	Europe
+LOV	Company - 1320	Italy	Europe
+LQT	Company - 9152	China	Asia
+LRS	Company - 9224	Poland	Europe
+LSC	Company - 1321	Sweden	Europe
+LSE	Company - 1322
+LSK	Company - 1323	South Korea	Asia
+LSP	Company - 1324	Germany	Europe
+LSZ	Company - 1325
+LTO	Company - 3737	Sweden	Europe
+LUG	Company - 1326	Germany	Europe
+LUN	Company - 1327	Turkey	Middle East
+LUP	Company - 8744	Germany	Europe
+LUP	Company - 8807	Germany	Europe
+LWT	Company - 1328	India	Asia
+LYE	Company - 1329	China	Asia
+LYN	Company - 9379	France	Europe
+LZG	Company - 7451	Germany	Europe
+MAC	Company - 1330	Serbia	Europe
+MAD	Company - 1331	Italy	Europe
+MAE	Company - 1332	Turkey	Middle East
+MAG	Company - 5134	India	Asia
+MAH	Company - 5253
+MAN	Company - 1333	Germany	Europe
+MAS	Company - 8731	Turkey	Middle East
+MAT	Company - 1334	Thailand	Asia
+MAX	Company - 1335	South Korea	Asia
+MBH	Company - 8805	Ghana	Africa
+MBS	Company - 1336	Germany	Europe
+MCI	Company - 8694	India	Asia
+MCP	Company - 5058	Germany	Europe
+MCR	Company - 1337	Czech Republic	Europe
+MCS	Company - 2572	Germany	Europe
+MCV	Company - 8842	Morocco	Africa
+MCX	Company - 9188	Hungary	Europe
+MDA	Company - 2571	Indonesia	Asia
+MDE	Company - 1338	Germany	Europe
+MDL	Company - 5117	Italy	Europe
+MDT	Company - 8836	India	Asia
+MDX	Company - 1339	Germany	Europe
+MEC	Company - 1340	Japan	Asia
+MED	Company - 1341	India	Asia
+MEE	Company - 1342	France	Europe
+MEH	Company - 1343	Germany	Europe
+MEI	Company - 1344	Germany	Europe
+MEL	Company - 1345	Bosnia and Herzegovina	Europe
+MEM	Company - 1346	Switzerland	Europe
+MEP	Company - 9345	Iran	Middle East
+MES	Company - 5107	Spain	Europe
+MET	Company - 1347	Germany	Europe
+MEX	Company - 7379	Italy	Europe
+MHT	Company - 1348	Italy	Europe
+MIC	Company - 1349	Austria	Europe
+MID	Company - 1350	Italy	Europe
+MII	Company - 1351	Denmark	Europe
+MIJ	Company - 1352	India	Asia
+MIK	Company - 1353	Czech Republic	Europe
+MIL	Company - 4924	Russian Federation	Europe
+MIM	Company - 1354	Malaysia	Asia
+MIO	Company - 8758	Germany	Europe
+MIR	Company - 1355	Russian Federation	Europe
+MIS	Company - 1356	Slovenia	Europe
+MIT	Company - 1357	France	Europe
+MIV	Company - 7453	Sweden	Europe
+MKA	Company - 2550	Germany	Europe
+MKE	Company - 1359	Turkey	Middle East
+MKL	Company - 1360	Turkey	Middle East
+MKS	Company - 1361	Turkey	Middle East
+MLQ	Company - 1362	Italy	Europe
+MLR	Company - 2597	Russian Federation	Europe
+MLT	Company - 9477	Turkey	Middle East
+MMC	Company - 1363	Syria	Middle East
+MMF	Company - 5019	Saudi Arabia	Middle East
+MMI	Company - 1364	France	Europe
+MMM	Company - 5247
+MMP	Company - 2611	India	Asia
+MMS	Company - 1365	United Kingdom	Europe
+MMT	Company - 1366	United Kingdom	Europe
+MNS	Company - 1367	Turkey	Middle East
+MNT	Company - 9327	Turkey	Middle East
+MNW	Company - 1368	Italy	Europe
+MOJ	Company - 5056	Nigeria	Africa
+MOS	Company - 1369	Nigeria	Africa
+MOT	Company - 1370	India	Asia
+MPA	Company - 1371	Hong Kong	Asia
+MPL	Company - 7383	Poland	Europe
+MPR	Company - 1372	Germany	Europe
+MPS	Company - 1373	Bulgaria	Europe
+MRB	Company - 9347	Poland	Europe
+MRN	Company - 5040	Ukraine	Europe
+MRT	Company - 1374	Russian Federation	Europe
+MSB	Company - 1375	Malaysia	Asia
+MSC	Company - 9294	Turkey	Middle East
+MSE	Company - 1376	India	Asia
+MSI	Company - 8736	India	Asia
+MSM	Company - 1377	South Korea	Asia
+MSO	Company - 1378	Serbia	Europe
+MST	Company - 1379	Taiwan	Asia
+MSY	Company - 1380	Turkey	Middle East
+MTC	Company - 1381
+MTD	Company - 1382	United States of America	North America
+MTE	Company - 8583	Egypt	Middle East
+MTG	Company - 9154	China	Asia
+MTH	Company - 1383	China	Asia
+MTI	Company - 1358	Pakistan	Asia
+MTL	Company - 1384	India	Asia
+MTM	Company - 1385	Sweden	Europe
+MTN	Company - 1386	Spain	Europe
+MTP	Company - 1387	India	Asia
+MTR	Company - 1388	Russian Federation	Europe
+MTS	Company - 1389	Italy	Europe
+MTT	Company - 9072	Indonesia	Asia
+MTX	Company - 1390	India	Asia
+MUK	Company - 1391	United Kingdom	Europe
+MWI	Company - 5091	India	Asia
+MWU	Company - 1392	Germany	Europe
+MXE	Company - 8669	China	Asia
+MXM	Company - 1393	India	Asia
+MYS	Company - 1394	Spain	Europe
+NAE	Company - 1395	China	Asia
+NAG	Company - 9141	Switzerland	Europe
+NAR	Company - 1396	China	Asia
+NAS	Company - 4844
+NAS	Company - 4820	Estonia	Europe
+NAT	Company - 1397	Spain	Europe
+NCK	Company - 2583	South Korea	Asia
+NDF	Company - 1398	Spain	Europe
+NDM	Company - 1399	United Kingdom	Europe
+NEE	Company - 1400	Vietnam	Asia
+NEI	Company - 8792	India	Asia
+NEO	Company - 8874	Switzerland	Europe
+NER	Company - 5038	Belarus	Europe
+NES	Company - 1401	Turkey	Middle East
+NET	Company - 1402	France	Europe
+NEX	Company - 8923	France	Europe
+NGP	Company - 5174	Poland	Europe
+NIK	Company - 1403	Ukraine	Europe
+NIS	Company - 1404	Israel	Middle East
+NJC	Company - 1405	South Korea	Asia
+NKS	Company - 1406	Germany	Europe
+NLI	Company - 2556	Germany	Europe
+NME	Company - 4804	Russian Federation	Europe
+NMG	Company - 1407	Poland	Europe
+NMS	Company - 1408	Israel	Middle East
+NMT	Company - 1409	Czech Republic	Europe
+NNT	Company - 1410	Czech Republic	Europe
 NOI	NOITAC sp. z o.o. sp.k.	Poland	Europe
-NOQ	NorthQ	Denmark	Europe
-NOV	NovaTech LLC	United States of America	North America
-NPL	CSIR-National Physical Laboratory	India	Asia
-NPS	NEOPIS CO., LTD 4F	South Korea	Asia
-NPT	CJSC PROGTECH	Russian Federation	Europe
-NRM	Norm Elektronik	Turkey	Middle East
-NRN	Neuron GmbH	Switzerland	Europe
-NRT	Zavod Nartis Ltd.	Russian Federation	Europe
-NSE	North Smart Equipment Co., Ltd	China	Asia
-NSP	M/S N S Power	India	Asia
-NTC	Nuri Telecom Co Ltd	South Korea	Asia
-NTM	Netinium	Netherlands	Europe
-NVD	METER Ltd
-NVN	NOVEN ENERGY AND ICT LTD.	Turkey	Middle East
-NWG	NINGBO WASSER GERAETE CO.,LTD.	China	Asia
-NWM	Ningbo Water Meter Co.Ltd.	China	Asia
-NXG	nexgen consultancy pvt ltd	India	Asia
-NXP	NXP Semiconductors	Netherlands	Europe
-NYG	Ningbo Yonggang Instrument Co. Ltd.	China	Asia
-NYN	Nanjing Yuneng Instrument Co Ltd.	China	Asia
-NZR	Nordwestdeutsche Zählerrevision Ing. Aug. Knemeyer GmbH & Co. KG	Germany	Europe
-OAS	Omni Agate Systems	India	Asia
-OBC	shandong oubiao information Technology. LTD	China	Asia
-OBE	Obeo as	Norway	Europe
-OBR	RMZ OBRIY LTD	Ukraine	Europe
-ODI	OAS Digital Infrastructures Pvt. Ltd.	India	Asia
-ODK	Okinawa Denki Kogyo Co.,Ltd.	Japan	Asia
-OEE	ONUR Elektrik ve Elektronik	Turkey	Middle East
-OJA	ELECTRICAL CIRCUIT BREAKER FACTORY FOR INDUSTRY-ECB	Saudi Arabia	Middle East
-OKN	be.storaged	Germany	Europe
-OLI	Olivetti S.p.A.	Italy	Europe
-OMG	Open Metering System Group – OMS-Group e. V.
-OMS	OMNISYSTEM Co., Ltd.	South Korea	Asia
-ONE	Omnicore Stratejik Teknolojiler Ltd. Sti.	Turkey	Middle East
-ONR	ONUR Elektroteknik	Turkey	Middle East
-ONS	ONUR Elektroteknik	Turkey	Middle East
-OPT	Optec GmbH	Switzerland	Europe
-ORB	ORBIS Tecnologia Electrica, SA	Spain	Europe
-ORM	Ormazabal	Spain	Europe
-OSA	Osaki Electric Co., Ltd.(Europe)	Japan	Asia
-OSB	Ocea Smart Building	France	Europe
-OSC	Oriental Sales Corporation	India	Asia
-OSK	Osaki Electric Co Ltd. (Japan)	Japan	Asia
-OSV	Onstar Venture Pvt Ltd	India	Asia
-OTM	OTMetric	France	Europe
-OTS	Shenzhen Oasis Technology Service Co., Ltd	China	Asia
-OYK	GULLWING(TIANJIN)INDUSTRY DEVELOPMENGT CO.,LTD.	China	Asia
-OZK	Oz-kar Enerji	Turkey	Middle East
-PAD	PadMess GmbH	Germany	Europe
-PAF	FAP PAFAL S.A.	Poland	Europe
-PAI	PAIBOONKIJTHANA CO.,LTD	Thailand	Asia
-PAK	Paktim Energy Sp.zo.o.	Poland	Europe
-PAN	Panasonic Corporation	Japan	Asia
-PBR	PFIFFNER do Brasil	Brazil	South America
-PCE	Precise Electronics co.,LTD.	Thailand	Asia
-PCI	POLYCAB INDIA LIMITED	India	Asia
-PCR	Powercom	Israel	Middle East
-PDE	Pfiffner Deutschland GmbH	Germany	Europe
-PDX	Paradox Engineering SA	Switzerland	Europe
-PEA	PEA J.V. Company	Ecuador	South America
-PEE	Prantech Energy Solutions	India	Asia
-PEL	Pak Elektron Ltd. (PEL)	Pakistan	Asia
-PEM	peerMetering GmbH	Germany	Europe
-PEP	POWRTEC ENERGY PVT. LTD.	India	Asia
-PER	Perry Electric	Italy	Europe
-PFI	PFIFFNER Instrument Transformers Ltd	Switzerland	Europe
-PGE	PayGo Energy, Inc
-PGP	P.G.P. - Smart Sensing s.a.	Belgium	Europe
-PHL	HangZhou PAX Electronic Technology Co., Ltd.	China	Asia
-PHX	Phoenix Systems sp z o.o.	Poland	Europe
-PII	PiiGAB Processinformation i Goteborg AB	Sweden	Europe
-PIK	pikkerton GmbH	Germany	Europe
-PIL	Pilot Systems (London) Ltd	United Kingdom	Europe
-PIM	Power Innovation GmbH	Germany	Europe
-PIN	PFIFFNER Instr. Transformers private	India	Asia
-PIP	Hermann Pipersberg jr.	Germany	Europe
-PIV	Pivot Access Ltd.	Rwanda	Africa
-PLL	POLL, s.r.o.	Czech Republic	Europe
-PLN	Prolan Process Control Company	Hungary	Europe
-PLO	Weihai Ploumeter Co. Ltd.	China	Asia
-PLU	Plutus Smart Energy Solutions Pvt. Ltd.	India	Asia
-PME	Pal Mohan Electronics Pvt Ltd	India	Asia
-PMG	Sensus Metering Systems	Germany	Europe
-PML	PROGRESSIVE METERS PVT LTD.	India	Asia
-PMP	REDUR GmbH & Co. KG	Germany	Europe
-PMS	PMS-Elektronik GmbH	Germany	Europe
-PMX	Dell`Anna Ing. Luca	Italy	Europe
-PNC	PNC Technology Co., Ltd	South Korea	Asia
-PNG	PAKTIM METERING NIGERIA LTD	Nigeria	Africa
-POD	PowerOneData	India	Asia
-POL	Pronal Sp. z o.o. sp.k.	Poland	Europe
-POW	PowerApp	Denmark	Europe
-POZ	ZEUP Pozyton sp. z o.o.	Poland	Europe
-PPC	Power Plus Communications AG	Germany	Europe
-PPL	Prompribor plant Limited	Russian Federation	Europe
-PPS	Palace Power Systems	South Africa	Africa
-PQP	PQ Plus GmbH	Germany	Europe
-PRA	Paya Ravesh Aria
-PRE	Predicate Software	South Africa	Africa
-PRG	Paud Raad Industrial Group	Iran	Middle East
-PRI	Polymeters Response International Ltd.
-PRM	Promatic d.o.o.	Croatia	Europe
-PRO	Proton - Elektromed Ltd	Turkey	Middle East
-PRY	ShanDong LiChuang Science and Technology Co.,Ltd.	China	Asia
-PSC	PS Tec Co.,Ltd.	Korea, Democratic People's Republic of (North Korea)	Asia
-PSE	pSenso sp. z o.o.	Poland	Europe
-PSN	PySENSE Sp. z o.o.	Poland	Europe
-PSS	Part Sanat Sanjesh	Iran	Middle East
-PST	PS Tec Co., Ltd.	South Korea	Asia
-PTI	Prolific Technology Inc.	Taiwan	Asia
-PTR	Pfiffner Transformatör A.S.	Turkey	Middle East
-PUK	Paktim Consulting UK Ltd	United Kingdom	Europe
-PUL	NPP Teplovodokhran Ltd
-PVT	Pavo Tasarım Üretim Elektronik Tic. A.Ş.	Turkey	Middle East
-PWB	Paul Wegener GmbH	Germany	Europe
-PWR	Powrtec	United States of America	North America
-PXC	Phoenix Contact GmbH & Co. KG	Germany	Europe
-PYU	PYUNGIL Co. Ltd	South Korea	Asia
-PYX	Pyrexx GmbH	Germany	Europe
-QDR	Quadrar Tecnologia	Brazil	South America
-QDS	Qundis GmbH	Germany	Europe
-QFP	QFP Engineering	Italy	Europe
-QLE	Quickline Energy AG	Switzerland	Europe
-QSD	Quicksand	Belgium	Europe
-QTS	QT systems ab	Sweden	Europe
-RAC	Michael Rac GmbH	Germany	Europe
-RAD	Radiocrafts AS	Norway	Europe
-RAM	Rossweiner Armaturen und Messgeräte GmbH & Co. OHG	Germany	Europe
-RAS	Rubikon Apskaitos Sistemos	Lithuania	Europe
-RAY	Rayleigh Instruments Limited	United Kingdom	Europe
-RBM	R.B.M. S.p.A	Italy	Europe
-RCE	RC ENERGY METERING PVT,LTD.	India	Asia
-RDK	Wuhan Radarking Electronics Corp.	China	Asia
-RDM	RDMx Consulting	Brazil	South America
-REC	Zhejiang Reallin Electron Co. Ltd.	China	Asia
-REF	REFERANS ELEKTRIK SAYACLARI A.S.	Turkey	Middle East
-REI	RENESAS ELECTRONICS INDIA PRIVATE LIMITED	India	Asia
-REL	Relay GmbH	Germany	Europe
-REM	Remote Energy Monitoring	United Kingdom	Europe
-REP	Radiant Energy Solutions Pvt Ltd	India	Asia
-RES	Renesas Electronics Singapore Pte Ltd	Singapore	Asia
-RHN	Rhino	Poland	Europe
-RIC	Richa Equipments Pvt. Ltd.	India	Asia
-RIL	Rikken Instrumentation Limited	India	Asia
-RIM	"CJSC \""Radio and Microelectronics\"""	Russian Federation	Europe
-RIN	Rayleigh Instruments Ltd	United Kingdom	Europe
-RIT	Ritz Instrument Transformers GmbH	Germany	Europe
-RIX	Raonix Co., Ltd.	South Korea	Asia
-RIZ	RIZ Transmitters	Croatia	Europe
-RKD	Ramakrishna Electro Components Pvt Ltd	India	Asia
-RKE	Viterra Energy Services (formerly Raab Karcher ES)
-RMA	Mess- und Regeltechnik GmbH & Co. KG	Germany	Europe
-RMG	RMG Messtechnik GmbH	Germany	Europe
-RMI	Racemosa Energy India Pvt Ltd	India	Asia
-RML	ROLEX METERS RPIVATE LIMITED	India	Asia
-RMR	Advanced Technology RAMAR	United Kingdom	Europe
-RMT	Richter Messtechnik GmbH & Co.KG	Germany	Europe
-RNW	Renergy Micro-Technologies	China	Asia
-ROK	“ROKIP” Limited Liability Company	Russian Federation	Europe
-RSA	Rahrovan Sepehr Andisheh  Pte. Co.
-RSM	Zhejiang Risesun Science and Technology Co.,Ltd.	China	Asia
-RSW	RSW Technik GmbH	Germany	Europe
-SAA	Sanjesh Afzar Asia Ltd. Co.	Iran	Middle East
-SAC	SACOFGAS srl	Italy	Europe
-SAE	SAE IT-systems GmbH & Co. KG	Germany	Europe
-SAG	Sagemcom Energy & Telecom	France	Europe
-SAL	Salzer Electronics Limited	India	Asia
-SAM	Siemens AG Österreich, AMIS (Automated Metering and Information System)	Austria	Europe
-SAN	SANN Stockholm AB	Sweden	Europe
-SAP	Diehl Metering	Germany	Europe
-SAT	SATEC Ltd	Israel	Middle East
-SBC	Saia-Burgess Controls 	Switzerland	Europe
-SCA	SENECA srl	Italy	Europe
-SCE	Seo Chang Electric Communication Co Ltd	South Korea	Asia
-SCH	Schinzel GmbH
-SCL	Steama Company Limited
-SCM	CalinMeter Co. ltd.	China	Asia
-SCR	Sanchuan Wisdom Technology Co., Ltd.	China	Asia
-SCT	S.I.C.E. Telecomunicazioni Srl	Italy	Europe
-SCW	ScatterWeb GmbH	Germany	Europe
-SDC	SdC – Sistemas de Contagem
-SDM	Shandong Delu Measurement Co., Ltd.	China	Asia
-SDS	Sitec s.r.l Elettronica industriale	Italy	Europe
-SEC	Schneider Electric Canada	Canada	North America
-SEE	El Sewedy Electrometer Egypt	Egypt	Middle East
-SEH	SAMRAKSHANA ELECTRICALS LTD	India	Asia
-SEI	Sicom Electronics International S.A.	Chile	South America
-SEK	StroyEnergoKom Ltd.	Russian Federation	Europe
-SEL	Selec Controls Pvt Ltd	India	Asia
-SEM	Smart Meter Company Limited	Myanmar	Asia
-SEN	Sensus Metering Systems	Germany	Europe
-SEO	SENSOCO Greatech GmbH	Germany	Europe
-SET	Sagemcom Energy & Telecom	France	Europe
-SFE	WUHAN SANFRAN ELECTRONICS CO., LTD.	China	Asia
-SFI	Siemens AG - DI PA MI	Germany	Europe
-SFR	WUHAN SANFRAN ELECTRONICS CO., LTD.	China	Asia
-SFT	Sotflink s.r.o	Czech Republic	Europe
-SGA	smartGAS Mikrosensorik GmbH	Germany	Europe
-SGI	Smartgrid Innovations Pvt Ltd	India	Asia
-SGM	Swiss Gas Metering AG	Switzerland	Europe
-SGN	SYGNITY S.A.	Poland	Europe
-SGX	Gao Xiang Water Meter Co. Ltd.	China	Asia
-SHD	Beijing SanHuaDeBao Energy Technoligy Co.,Ltd.	China	Asia
-SHE	Shenzhen SingHang Elec-tech Co., Ltd.	China	Asia
-SHM	Shanghai Metering, China	China	Asia
-SHT	Shitek Technology srl	Italy	Europe
-SIC	SICK Engineering GmbH	Germany	Europe
-SIE	Siemens AG
-SIG	Sigrenea	France	Europe
-SIJ	SUN STAR INDUSTRIES	India	Asia
-SIL	Silicon Laboratories	United States of America	North America
-SIM	Sana Intelligent Meter	Iran	Middle East
-SIN	SINAPSI SRL	Italy	Europe
-SIS	Sevme Informatique Service	France	Europe
-SIT	SITEL doo	Serbia	Europe
-SIV	Sieverding Heizungs- und Sanitaertechnik GmbH	Germany	Europe
-SIX	Six Innovation AB	Sweden	Europe
-SJA	Sheng Jay Automation Technologies Co., Ltd.	Taiwan	Asia
-SKI	S.K.I. GmbH	Germany	Europe
-SKK	Shikoku Instrumentation Co.,Ltd.	Japan	Asia
-SKN	BENTEX CONTROL AND SWITCH GEAR CO.	India	Asia
-SKQ	SKI( sherkate kontorsazi Iran)	Iran	Middle East
-SKT	SkyToll a.s.	Slovakia	Europe
-SKY	SKYLARK SMARTMETERS PVT LTD	India	Asia
-SLB	Schlumberger Industries Ltd.	France	Europe
-SLG	Silergy Technologies
-SLP	Sylop spółka z ograniczoną odpowiedzialnością sp.k.	Poland	Europe
-SLV	Solvimus GmbH	Germany	Europe
-SLW	SOLID WAY SAS	France	Europe
-SLX	Ymatron AG	Switzerland	Europe
-SMA	Smart-me AG	Switzerland	Europe
-SMC	Sierra Monitor Corporation	United States of America	North America
-SME	Siame	Tunisia	Africa
-SMF	Star Measure	Brazil	South America
-SMG	Samgas s.r.l. 	Italy	Europe
-SMI	PT. SMART METER INDONESIA	Indonesia	Asia
-SML	Siemens Measurements Ltd.
-SMM	Smart Metering S.r.l.	Italy	Europe
-SMN	Saiman Corporation LLC	Kazakhstan	Asia
-SMP	LLC FIRM SEMPAL CO LTD	Ukraine	Europe
-SMQ	SMARTMETERQ srl	Italy	Europe
-SMR	Saudi Meters Company Ltd	Saudi Arabia	Middle East
-SMS	Smart Metering Solutions (Changsha) Co. Ltd.	China	Asia
-SMT	Smarteh d.o.o.	Slovenia	Europe
-SMV	Société Marocaine des Compteurs	Morocco	Africa
-SMX	Smart Meters Technologies Sdn Bhd	Malaysia	Asia
-SNB	Stromnetz Berlin GmbH	Germany	Europe
-SNM	ShenZhen Northmeter Co.Ltd 	China	Asia
-SNR	NTN-SNR	France	Europe
-SNS	Signals and Systems India Private Limited	India	Asia
-SNT	SensorNet s.r.l.	Italy	Europe
-SOC	SOCOMEC	France	Europe
-SOF	Softflow.de GmbH	Germany	Europe
-SOG	Sogecam Industrial, S.A.	Spain	Europe
-SOL	Soledia Srl	Italy	Europe
-SOM	Somesca	France	Europe
-SON	Sontex SA	Switzerland	Europe
-SOS	SOFTSERVICE	Ukraine	Europe
-SOT	Sotronix	Germany	Europe
-SPC	JSC RPC Spektr	Russian Federation	Europe
-SPE	SUKHILA POWER ELECTRONICS PVT LTD	India	Asia
-SPL	Diehl Metering	Germany	Europe
-SPM	Stelmec Powercom Private Limited	India	Asia
-SPX	Sensus Metering Systems	Germany	Europe
-SPZ	SPowerZ Solutions Pvt Ltd	India	Asia
-SRE	Guangzhou Sunrise Electronics Development Co., Ltd., 	China	Asia
-SRF	Saraf Industries	India	Asia
-SRN	Shandong SARON Intelligent Technology Co., Ltd.	China	Asia
-SRV	Servic LLC	Ukraine	Europe
-SSE	S&T Smart Energy GmbH	Austria	Europe
+NOQ	Company - 1411	Denmark	Europe
+NOV	Company - 1412	United States of America	North America
+NPL	Company - 7531	India	Asia
+NPS	Company - 1413	South Korea	Asia
+NPT	Company - 1414	Russian Federation	Europe
+NRM	Company - 1415	Turkey	Middle East
+NRN	Company - 1416	Switzerland	Europe
+NRT	Company - 5168	Russian Federation	Europe
+NSE	Company - 1417	China	Asia
+NSN	Company - 9199	China	Asia
+NSP	Company - 5130	India	Asia
+NTC	Company - 1418	South Korea	Asia
+NTM	Company - 1419	Netherlands	Europe
+NTT	Company - 9211	Italy	Europe
+NUD	Company - 9207	India	Asia
+NVD	Company - 1420
+NVN	Company - 1421	Turkey	Middle East
+NWG	Company - 5071	China	Asia
+NWM	Company - 1422	China	Asia
+NXG	Company - 5129	India	Asia
+NXP	Company - 1423	Netherlands	Europe
+NYG	Company - 1424	China	Asia
+NYN	Company - 1425	China	Asia
+NZR	Company - 1426	Germany	Europe
+OAS	Company - 1427	India	Asia
+OBC	Company - 1428	China	Asia
+OBE	Company - 1775	Norway	Europe
+OBR	Company - 1429	Ukraine	Europe
+ODI	Company - 1430	India	Asia
+ODK	Company - 1431	Japan	Asia
+OEE	Company - 1432	Turkey	Middle East
+OJA	Company - 9005	Saudi Arabia	Middle East
+OKN	Company - 7504	Germany	Europe
+OLI	Company - 1433	Italy	Europe
+OMG	Company - 5235
+OMS	Company - 1434	South Korea	Asia
+ONE	Company - 9043	Turkey	Middle East
+ONR	Company - 1435	Turkey	Middle East
+ONS	Company - 1436	Turkey	Middle East
+OPT	Company - 1437	Switzerland	Europe
+ORB	Company - 1438	Spain	Europe
+ORM	Company - 1439	Spain	Europe
+ORN	Company - 9243	Kazakhstan	Asia
+OSA	Company - 1440	Japan	Asia
+OSB	Company - 7468	France	Europe
+OSC	Company - 8562	India	Asia
+OSK	Company - 1441	Japan	Asia
+OSV	Company - 8973	India	Asia
+OTM	Company - 5114	France	Europe
+OTS	Company - 7469	China	Asia
+OYK	Company - 1442	China	Asia
+OZK	Company - 1443	Turkey	Middle East
+PAD	Company - 1444	Germany	Europe
+PAF	Company - 1445	Poland	Europe
+PAI	Company - 7445	Thailand	Asia
+PAK	Company - 1446	Poland	Europe
+PAN	Company - 1447	Japan	Asia
+PBR	Company - 7338	Brazil	South America
+PCE	Company - 1448	Thailand	Asia
+PCI	Company - 9096	India	Asia
+PCR	Company - 1449	Israel	Middle East
+PDE	Company - 1450	Germany	Europe
+PDX	Company - 1451	Switzerland	Europe
+PEA	Company - 1452	Ecuador	South America
+PEE	Company - 1453	India	Asia
+PEL	Company - 1454	Pakistan	Asia
+PEM	Company - 8937	Germany	Europe
+PEP	Company - 1455	India	Asia
+PER	Company - 4917	Italy	Europe
+PES	Company - 9314	India	Asia
+PFI	Company - 5324	Switzerland	Europe
+PGE	Company - 4855
+PGP	Company - 1456	Belgium	Europe
+PHL	Company - 1457	China	Asia
+PHX	Company - 7499	Poland	Europe
+PII	Company - 1458	Sweden	Europe
+PIK	Company - 1459	Germany	Europe
+PIL	Company - 1460	United Kingdom	Europe
+PIM	Company - 1461	Germany	Europe
+PIN	Company - 7339	India	Asia
+PIP	Company - 1462	Germany	Europe
+PIV	Company - 2604	Rwanda	Africa
+PLL	Company - 4888	Czech Republic	Europe
+PLN	Company - 1463	Hungary	Europe
+PLO	Company - 1464	China	Asia
+PLU	Company - 1465	India	Asia
+PME	Company - 2712	India	Asia
+PMG	Company - 1466	Germany	Europe
+PML	Company - 4811	India	Asia
+PMP	Company - 1467	Germany	Europe
+PMS	Company - 1468	Germany	Europe
+PMX	Company - 1469	Italy	Europe
+PNC	Company - 1470	South Korea	Asia
+PNG	Company - 7399	Nigeria	Africa
+POD	Company - 1471	India	Asia
+POL	Company - 2567	Poland	Europe
+POW	Company - 1472	Denmark	Europe
+POZ	Company - 1473	Poland	Europe
+PPC	Company - 1474	Germany	Europe
+PPL	Company - 5090	Russian Federation	Europe
+PPS	Company - 1475	South Africa	Africa
+PQP	Company - 4960	Germany	Europe
+PRA	Company - 5231
+PRE	Company - 1476	South Africa	Africa
+PRG	Company - 1477	Iran	Middle East
+PRI	Company - 1478
+PRM	Company - 1479	Croatia	Europe
+PRO	Company - 1480	Turkey	Middle East
+PRY	Company - 1481	China	Asia
+PSC	Company - 8921	Korea, Democratic People's Republic of (North Korea)	Asia
+PSE	Company - 1482	Poland	Europe
+PSN	Company - 2660	Poland	Europe
+PSS	Company - 9029	Iran	Middle East
+PST	Company - 1483	South Korea	Asia
+PSY	Company - 9265	Germany	Europe
+PTA	Company - 9182	Indonesia	Asia
+PTI	Company - 1484	Taiwan	Asia
+PTR	Company - 7337	Turkey	Middle East
+PUK	Company - 1485	United Kingdom	Europe
+PUL	Company - 5238
+PVT	Company - 1486	Turkey	Middle East
+PWB	Company - 1487	Germany	Europe
+PWR	Company - 1488	United States of America	North America
+PXC	Company - 1489	Germany	Europe
+PYU	Company - 1490	South Korea	Asia
+PYX	Company - 7448	Germany	Europe
+QDR	Company - 1491	Brazil	South America
+QDS	Company - 1492	Germany	Europe
+QFP	Company - 1493	Italy	Europe
+QLE	Company - 7397	Switzerland	Europe
+QSD	Company - 5000	Belgium	Europe
+QTS	Company - 1494	Sweden	Europe
+RAC	Company - 1495	Germany	Europe
+RAD	Company - 1496	Norway	Europe
+RAM	Company - 1497	Germany	Europe
+RAS	Company - 1498	Lithuania	Europe
+RAY	Company - 1499	United Kingdom	Europe
+RBM	Company - 1500	Italy	Europe
+RCE	Company - 1501	India	Asia
+RDK	Company - 4853	China	Asia
+RDM	Company - 5163	Brazil	South America
+REC	Company - 1502	China	Asia
+REF	Company - 1503	Turkey	Middle East
+REI	Company - 1504	India	Asia
+REL	Company - 1505	Germany	Europe
+REM	Company - 1506	United Kingdom	Europe
+REP	Company - 2635	India	Asia
+RES	Company - 1507	Singapore	Asia
+RFC	Company - 5151	China	Asia
+RHN	Company - 8665	Poland	Europe
+RIC	Company - 1508	India	Asia
+RIL	Company - 1509	India	Asia
+RIM	Company - 1510	Russian Federation	Europe
+RIN	Company - 2664	United Kingdom	Europe
+RIT	Company - 1511	Germany	Europe
+RIX	Company - 1512	South Korea	Asia
+RIZ	Company - 1513	Croatia	Europe
+RKD	Company - 8927	India	Asia
+RKE	Company - 1514
+RMA	Company - 1515	Germany	Europe
+RMG	Company - 1516	Germany	Europe
+RMI	Company - 7441	India	Asia
+RML	Company - 1517	India	Asia
+RMR	Company - 1518	United Kingdom	Europe
+RMT	Company - 1519	Germany	Europe
+RNW	Company - 1520	China	Asia
+ROK	Company - 5160	Russian Federation	Europe
+RSA	Company - 1521
+RSM	Company - 1522	China	Asia
+RSW	Company - 1523	Germany	Europe
+SAA	Company - 1524	Iran	Middle East
+SAC	Company - 1525	Italy	Europe
+SAE	Company - 1526	Germany	Europe
+SAG	Company - 1527	France	Europe
+SAL	Company - 8642	India	Asia
+SAM	Company - 1528	Austria	Europe
+SAN	Company - 1529	Sweden	Europe
+SAP	Company - 1530	Germany	Europe
+SAT	Company - 1531	Israel	Middle East
+SBC	Company - 1532	Switzerland	Europe
+SBP	Company - 9337	Netherlands	Europe
+SCA	Company - 1533	Italy	Europe
+SCE	Company - 1534	South Korea	Asia
+SCH	Company - 1535
+SCL	Company - 5287
+SCM	Company - 1536	China	Asia
+SCR	Company - 1537	China	Asia
+SCT	Company - 1538	Italy	Europe
+SCW	Company - 1539	Germany	Europe
+SDC	Company - 1540
+SDM	Company - 1541	China	Asia
+SDN	Company - 9320	Germany	Europe
+SDS	Company - 1542	Italy	Europe
+SEC	Company - 1543	Canada	North America
+SED	Company - 8722	United Arab Emirates	Middle East
+SEE	Company - 1544	Egypt	Middle East
+SEG	Company - 8722	United Arab Emirates	Middle East
+SEH	Company - 1545	India	Asia
+SEI	Company - 1546	Chile	South America
+SEK	Company - 4933	Russian Federation	Europe
+SEL	Company - 1547	India	Asia
+SEM	Company - 4823	Myanmar	Asia
+SEN	Company - 1548	Germany	Europe
+SEO	Company - 1549	Germany	Europe
+SES	Company - 8722	United Arab Emirates	Middle East
+SET	Company - 1550	France	Europe
+SEW	Company - 8722	United Arab Emirates	Middle East
+SFE	Company - 9068	China	Asia
+SFI	Company - 1551	Germany	Europe
+SFR	Company - 9069	China	Asia
+SFT	Company - 1552	Czech Republic	Europe
+SGA	Company - 1553	Germany	Europe
+SGI	Company - 7516	India	Asia
+SGM	Company - 1554	Switzerland	Europe
+SGN	Company - 1555	Poland	Europe
+SGT	Company - 9301	Brazil	South America
+SGX	Company - 2565	China	Asia
+SHB	Company - 9384	China	Asia
+SHD	Company - 1556	China	Asia
+SHE	Company - 1557	China	Asia
+SHM	Company - 1558	China	Asia
+SHT	Company - 1559	Italy	Europe
+SIC	Company - 1560	Germany	Europe
+SIE	Company - 1561
+SIG	Company - 1562	France	Europe
+SIJ	Company - 2582	India	Asia
+SIL	Company - 1563	United States of America	North America
+SIM	Company - 1564	Iran	Middle East
+SIN	Company - 1565	Italy	Europe
+SIS	Company - 7370	France	Europe
+SIT	Company - 1566	Serbia	Europe
+SIV	Company - 1567	Germany	Europe
+SIX	Company - 1568	Sweden	Europe
+SJA	Company - 7534	Taiwan	Asia
+SKI	Company - 1569	Germany	Europe
+SKK	Company - 1570	Japan	Asia
+SKN	Company - 2596	India	Asia
+SKQ	Company - 5326	Iran	Middle East
+SKT	Company - 1571	Slovakia	Europe
+SKY	Company - 4782	India	Asia
+SLB	Company - 1572	France	Europe
+SLG	Company - 4859
+SLP	Company - 1573	Poland	Europe
+SLV	Company - 1574	Germany	Europe
+SLW	Company - 1575	France	Europe
+SLX	Company - 1576	Switzerland	Europe
+SMA	Company - 1577	Switzerland	Europe
+SMC	Company - 1578	United States of America	North America
+SME	Company - 1579	Tunisia	Africa
+SMF	Company - 7418	Brazil	South America
+SMG	Company - 1580	Italy	Europe
+SMI	Company - 2575	Indonesia	Asia
+SML	Company - 1581
+SMM	Company - 1582	Italy	Europe
+SMN	Company - 1583	Kazakhstan	Asia
+SMP	Company - 1584	Ukraine	Europe
+SMQ	Company - 1585	Italy	Europe
+SMR	Company - 5018	Saudi Arabia	Middle East
+SMS	Company - 1586	China	Asia
+SMT	Company - 1587	Slovenia	Europe
+SMV	Company - 8844	Morocco	Africa
+SMX	Company - 1588	Malaysia	Asia
+SNB	Company - 5108	Germany	Europe
+SNM	Company - 1589	China	Asia
+SNR	Company - 1590	France	Europe
+SNS	Company - 1591	India	Asia
+SNT	Company - 4997	Italy	Europe
+SOC	Company - 1592	France	Europe
+SOF	Company - 1593	Germany	Europe
+SOG	Company - 1594	Spain	Europe
+SOL	Company - 1595	Italy	Europe
+SOM	Company - 1596	France	Europe
+SON	Company - 1597	Switzerland	Europe
+SOS	Company - 1598	Ukraine	Europe
+SOT	Company - 1599	Germany	Europe
+SPC	Company - 7347	Russian Federation	Europe
+SPE	Company - 1600	India	Asia
+SPL	Company - 1601	Germany	Europe
+SPM	Company - 3738	India	Asia
+SPX	Company - 1602	Germany	Europe
+SPZ	Company - 2564	India	Asia
+SRE	Company - 1603	China	Asia
+SRF	Company - 1604	India	Asia
+SRI	Company - 9167	India	Asia
+SRN	Company - 1605	China	Asia
+SRV	Company - 1606	Ukraine	Europe
+SSE	Company - 2593	Austria	Europe
 SSG	Super Star Electronics Limited	Bangladesh	Asia
-SSI	Security Solutions Institute LTD	Bulgaria	Europe
-SSL	Synapsys Solutions Ltd.
-SSM	SCC METERS LTD.	Bangladesh	Asia
-SSN	Silver Spring Networks	United States of America	North America
-SSS	SUEZ SMART SOLUTIONS	France	Europe
-SST	Qingdao Haina Electric Automation Systems Co., Ltd.	China	Asia
-STA	Shenzhen Star Instrument Co Ltd	China	Asia
-STC	Sunrise Technology Co., Ltd	China	Asia
-STD	Stedin B.V	Netherlands	Europe
-STE	Satera Elektrik Elektronik San. ve Tic. A.S.
-STF	STACKFORCE GmbH	Germany	Europe
-STL	Saudi Technical Group	Saudi Arabia	Middle East
-STM	STELMEC LTD	India	Asia
-STN	Hunan Stron Smart Co., Ltd.	China	Asia
-STO	ABB STOTZ-KONTAKT GmbH	Germany	Europe
-STP	Spectrum Tool Engineers Pvt, Ltd.	India	Asia
-STR	Strike Technologies	South Africa	Africa
-STS	Swistec Systems AG	Switzerland	Europe
-STV	STV Automation, Branch of STV Electronic	Germany	Europe
-STW	Siterwell Electronics CO. Limited	China	Asia
-STZ	Steinbeis Innovation Center Embedded Design and Networking	Germany	Europe
-SUL	SINHAL UDYOG PRIVATE LIMITED	India	Asia
-SUM	Sumeru Verrdhe Technologies Pvt Ltd	India	Asia
-SUN	TIAN JIN SUN ENERGY TECHNOLOGY CO. LTD.	China	Asia
-SUP	SUPERMAX COMPONENTS PVT LTD	India	Asia
-SUX	Supermax Components Pvt Ltd	India	Asia
-SVM	AB Svensk Värmemätning SVM
-SVT	SPUTNIK	Russian Federation	Europe
-SWI	Swistec GmbH	Germany	Europe
-SWM	Smart Water Metering Inc.	Canada	North America
-SWS	Stadtwerke Senftenberg GmbH	Germany	Europe
-SWT	Beijing Swirling Technology Co. Ltd	China	Asia
-SYC	Sycous Limited, Leeds Innovation Centre	United Kingdom	Europe
-SYD	Sydler Electronics Pvt Ltd	India	Asia
-SYN	SMSISTEM Ltd.	Turkey	Middle East
-SYR	SAYRON GLOBAL ENERJÄ° A.Å	Turkey	Middle East
-SYS	Softwareentwicklung & Systemdesign	Austria	Europe
-SYX	SyxthSense Ltd	United Kingdom	Europe
-SZS	Szerver Szektor Kft.	Hungary	Europe
-TAG	Telma AG	Switzerland	Europe
-TAL	TALAMONA S.r.l.	Italy	Europe
-TAN	Tianxin instrument group co. LTD	China	Asia
-TAS	Pouyeshgaran Tabriz Azma	Iran	Middle East
-TAT	Tatung Co.	Taiwan	Asia
-TAU	TARGUS TECHNOLOGIES PVT. LTD.	India	Asia
-TAY	Taytech Otomasyon ve Bilisim Teknolojileri LTD. Sti	Turkey	Middle East
-TAZ	PoyeshGaran  Sahandzaran Tabrizazma	Iran	Middle East
-TBN	TBEA Nanjing Intelligent Electric Co., Ltd.	China	Asia
-TBS	TEBAŞ END. ISI SİS İNŞ TUR SAN VE TİC LTD ŞTİ	Turkey	Middle East
-TCE	Qingdao iTechene Technologies Co., Ltd.	China	Asia
-TCH	Techem
-TCM	TCOM doo	Serbia	Europe
-TCO	Teco a.s.	Czech Republic	Europe
-TCP	Telecard-Prilad LLC	Ukraine	Europe
-TCT	Tecnotel Srl	Italy	Europe
-TCX	Qingdao Topscomm Communication Co.,Ltd	China	Asia
-TCZ	Tianjin Chuangzhan Tongcheng Technology Development Co.,Ltd.	China	Asia
-TDC	Telecom Design	France	Europe
-TEA	TEAM-R
-TEC	TECSON Digital	Germany	Europe
-TEH	IOTech LTD
-TEI	Tohoku Electric Meter Industry Co.,Inc.	Japan	Asia
-TEK	Tekmar Regelsysteme GmbH	Germany	Europe
-TEL	TURBO ENERGY LIMITED	Nigeria	Africa
-TEN	TekhnoEnergo LLC	Russian Federation	Europe
-TEO	ubitricity Gesellschaft für verteilte Energiesysteme mbH	Germany	Europe
-TEP	TEPEECAL	France	Europe
-TER	Tavrida Electric Russia	Russian Federation	Europe
-TEU	TOSHELECTROAPPARAT LLC FE	Uzbekistan	Asia
-TFC	Toos Fuse Co.	Iran	Middle East
-TFG	TERMICS s.r.l. Divisione FIMIGAS	Italy	Europe
-TGX	Tiesse Spa	Italy	Europe
-THE	Theben AG	Germany	Europe
-THS	JOZI 2009 Ltd.	Bulgaria	Europe
-THW	TW-TEAMWARE	Italy	Europe
-TIC	TOKYO KEISO CO.,LTD.	Japan	Asia
-TID	TIDE Co.,Ltd	South Korea	Asia
-TIG	ZHONGHUAN-TIG CO.,LTD	China	Asia
-TII	TRIKALA INDUSTRIES INDIA PVT LTD	India	Asia
-TIL	Thermal Integration Limited	United Kingdom	Europe
-TIP	TIP GmbH	Germany	Europe
-TIS	Texas Instruments (Hong Kong) Ltd.	Hong Kong	Asia
-TIX	Tixi.Com GmbH
-TKN	TECHKNAVE	India	Asia
-TKS	Teksan Teknolojik Ölçüm Sistemleri A.Ş.	Turkey	Middle East
-TLC	TELECON GALICIA,S.A.	Spain	Europe
-TLM	Theodor Lange Messgeräte GmbH	Germany	Europe
-TLR	Telereading srl	Italy	Europe
-TLS	TLS Energimätning AB	Sweden	Europe
-TLT	Telecommunication Technologies LLC	Ukraine	Europe
-TLY	LLC «SPE» Telemetry»	Ukraine	Europe
-TME	TECHNO METERS & ELECTRONICS	India	Asia
-TMK	Timi Kosova Sh.p.k.
-TMS	TEMASS IMALAT A.S	Turkey	Middle East
-TMZ	TMZ - Thüringer Mess- und Zählerwesen Service GmbH	Germany	Europe
-TNT	Deltamess DWWF GmbH	Germany	Europe
-TOE	Top For Electrical Industries	Egypt	Middle East
-TOP	KMB systems, s.r.o.	Czech Republic	Europe
-TPB	2 Plus Bulgaria AD	Bulgaria	Europe
-TPC	Taipit - measuring equipment	Russian Federation	Europe
-TPG	Texnopark	Uzbekistan	Asia
-TPI	Transfopower Industries (Pvt.) Ltd.	Pakistan	Asia
-TPJ	TAKAHATA PRECISION JAPAN CO., LTD.	Japan	Asia
-TPL	Teplocom Holding	Russian Federation	Europe
-TPZ	PLC Technology
-TRC	Traco Doo	Serbia	Europe
-TRG	Trench Germany GmbH	Germany	Europe
-TRI	Tritech Technology AB	Sweden	Europe
-TRJ	SHENZHEN TECHRISE ELECTRONICS CO.,LTD	China	Asia
-TRL	Trilliant Inc.	Canada	North America
-TRN	TERRANOVA SRL	Italy	Europe
-TRO	TROX GmbH	Germany	Europe
-TRU	Truteq Wireless	South Africa	Africa
-TRV	Transvaro Elektron Aletleri A.S.	Turkey	Middle East
-TRW	Triowatt GmbH
-TRX	Beijing TianRuiXiang Equipment Co.,Ltd.	China	Asia
-TRZ	TR Group (Pty) Ltd	South Africa	Africa
-TSD	Theobroma Systems Design und Consulting GmbH	Austria	Europe
-TSE	Nichi Manufacturing Pvt. Ltd.	India	Asia
-TSG	Testo Sensor GmbH	Germany	Europe
-TSW	T7 WENMAX SDN. BHD.	Malaysia	Asia
-TTG	Tatung Co.	Taiwan	Asia
-TTM	Toshiba Toko Meter Systems Co., Ltd.	Japan	Asia
-TTN	Tatung Co.	Taiwan	Asia
-TTR	Tetraedre Sarl	Switzerland	Europe
-TTT	Telephone and Telegraph Technique Plc	Bulgaria	Europe
-TUR	TURKSAY ELEKTRONIK ELEKTRIK ENDUSTRISI
-TWO	2Flow AB	Sweden	Europe
-TXL	CETC46 TianJin New Top Electronics Technology Co.,Ltd.	China	Asia
-UAG	Uher
-UBI	Ubitronix system solutions gmbh	Austria	Europe
-UBY	ubitricity - Gesellschaft für verteilte Energiesysteme mbH	Germany	Europe
-UEI	United Electrical Industries Limited	India	Asia
-UEL	united electrical industries ltd	India	Asia
-UGI	United Gas Industries
-UGT	DP UKRGAZTECH Ltd. (Ukrainian gas technologies)	Ukraine	Europe
-UHM	Micronics Ltd.	United Kingdom	Europe
-UNI	Univations Limited	Hong Kong	Asia
-UNM	UniMetric d.o.o.	Croatia	Europe
-UPS	UMA POLY SOLUTIONS  PRIVATE LIMITED	India	Asia
-URM	Urmet Telecomunicazioni SPA	Italy	Europe
-USC	Usanca Soluciones S.L.	Spain	Europe
-UTF	UtiliFlex	United States of America	North America
-UTI	Utilia Spa	Italy	Europe
-UTL	United Telecoms Limited	India	Asia
-UTS	UNIQUE TECHNOSOLUTIONS PRIVATE LIMITED	India	Asia
-UTT	UtiliTools GmbH	Germany	Europe
-VAI	Shete Advanced Technologies Pvt Ltd	India	Asia
-VAL	Valkoder OOD	Bulgaria	Europe
-VAR	VARAAHI ELECTROMECH PRIVATE LIMITED	India	Asia
-VDP	Plant Vodopribor management company	Russian Federation	Europe
-VEC	Energo Control LLC	Ukraine	Europe
-VEL	VELANKANI ELECTRONICS PRIVATE LIMITED	India	Asia
-VEN	INVENDIS TECHNOLOGIES INDIA PVT LTD	India	Asia
-VER	VERAUT GmbH	Austria	Europe
-VES	Viterra Energy Services
-VEX	Vertex Electronics (Pvt) Ltd.	Pakistan	Asia
-VFS	Semas d.o.o.	Serbia	Europe
-VGO	Vango Technologies, Inc.	Taiwan	Asia
-VIE	Vientech	France	Europe
-VIK	VI-KO ELEKTRIK	Turkey	Middle East
-VIM	VİEN ENERJİ SİSTEMLERİ SANAYİ VE TİCARET LİMİTED ŞİRKETİ	Turkey	Middle East
-VIN	Vektor innovations private limited	India	Asia
-VIP	VIPA CZ s.r.o.	Czech Republic	Europe
-VIT	Vitir AS	Norway	Europe
-VLT	ABB s.r.o., EPMV Division	Czech Republic	Europe
-VMP	VAMP Oy.	Finland	Europe
-VNE	Vision Networks	India	Asia
-VPI	Van Putten Instruments B.V.
-VPL	Verticross India Private Limited	India	Asia
-VSE	Valenciana Smart Energy of Mediterranean Sea S.A	Spain	Europe
-VSN	Viewshine Ltd.	China	Asia
-VTC	Vitelec	Netherlands	Europe
-VTG	vemm tec Messtechnik GmbH
-VTK	Linkwell Telesystems Pvt. Ltd.	India	Asia
-VTN	VITEX NOVA	Ukraine	Europe
-VTZ	VitzroSys Co., Ltd.	South Korea	Asia
-VVV	VIVAVIS AG	Germany	Europe
-WAD	Waher Data AB	Sweden	Europe
-WAH	WAHESOFT UG	Germany	Europe
-WAI	Chongqing WECAN Precision Instruments Co.,Ltd.	China	Asia
-WAL	Wallaby Metering Systems Pvt. Ltd.	India	Asia
-WDN	Webdyn SA	France	Europe
-WEB	Webolution GmbH & Co. KG	Germany	Europe
-WEG	WEG Equipamentos Elétricos S.A. – Automação	Brazil	South America
-WEH	E. Wehrle GmbH	Germany	Europe
-WEL	WELLTECH automation	China	Asia
-WEP	Weptech elektronik GmbH	Germany	Europe
-WFT	Waft Embedded Circuit Solutions	India	Asia
-WGN	Wasser-Geräte GmbH	Germany	Europe
-WGP	GreenPoint sp. z o.o.	Poland	Europe
-WHU	Wasion Hungary Kft.	Hungary	Europe
-WIG	Wigersma & Sikkema	Netherlands	Europe
-WIK	WIKON Kommunikationstechnik GmbH	Germany	Europe
-WIN	Windmill Innovations BV	Netherlands	Europe
-WKL	Shenyang jia DE lian yi energy technology co., LTD	China	Asia
-WKX	JINING WUKEXING METER CO. LTD.	China	Asia
-WMO	Westermo Teleindustri AB	Sweden	Europe
-WNC	wireless-netcontrol GmbH	Germany	Europe
-WNW	Wistron NeWeb Corporation, Marketing Center	Taiwan	Asia
-WOW	Sciknow Techno Solutions Ltd	India	Asia
-WPZ	Weepiez SaS	France	Europe
-WSD	Yantai Wisdom Electric Co., Ltd.	China	Asia
-WSE	Wasion Group Co.Ltd	China	Asia
-WSG	ZHEJIANG WELLSUN INTELLIGENT TECHNOLOGY CO., LTD	China	Asia
-WSM	winAMR Systems Private Limited	India	Asia
-WSR	OOO WESER	Russian Federation	Europe
-WTI	Weihai Sunts Electric Meter Co., Ltd.	China	Asia
-WTL	Wipro Technologies	India	Asia
-WTM	Watertech S.r.l.	Italy	Europe
-WTT	Watertech S.r.l.	Italy	Europe
-WUR	Wurm GmbH & Co. KG Elektronische Systeme	Germany	Europe
-WZG	Neumann & Co. Wasserzähler Glaubitz GmbH	Germany	Europe
-WZT	Wizit Co. Ltd.	South Korea	Asia
-XAO	Info Solution SpA	Italy	Europe
-XEE	XEE Technology GmbH	Germany	Europe
-XEM	XEMTEC AG	Switzerland	Europe
-XIO	XIOTA India Pvt. Ltd	India	Asia
-XJM	XJ Metering Co. Ltd.	China	Asia
-XLG	X-LOGIC d.o.o	Croatia	Europe
-XMA	XMASTER s.c. ul.	Poland	Europe
-XMX	Xemex NV	Belgium	Europe
-XPP	XYROSYS PVT LTD	India	Asia
-XTM	Suntront Tech Co. Ltd.	China	Asia
-XTR	HENAN SUNTRONT TECH CO. LTD.	China	Asia
-XTY	LianYuanGang Tengyue Electronics & Technology Co. Ltd.
-XYL	Sensus GmbH Ludwigshafen	Germany	Europe
-YDD	Jilin Yongda Group Co. Ltd.
-YDS	YIDU Smart Technology ( Beijing ) Co. Ltd.	China	Asia
-YEM	KYENM TECH PVT LTD	India	Asia
-YFC	Yufeng Changhui Automation Instrument Co. Ltd.	China	Asia
-YGM	YGM, Shandong Yiguang heat metering technology CO. LTD.	China	Asia
-YHE	Youho Electric Co. Ltd.	South Korea	Asia
-YHF	Hebei Haifeng Electronic Technology Co.	China	Asia
-YJZ	Zhuhai Yujian Science & Technology Co., Ltd	China	Asia
-YNE	YOONO ENERGY TECHNOLOGY (JIANGSU) CO., LTD.	China	Asia
-YNP	Ningbo Yong Neng Power Technology Co. Ltd.	China	Asia
-YPP	YPP Corp	South Korea	Asia
-YSS	Yellowstone Soft	Germany	Europe
-YTE	Yuksek Teknoloji	Turkey	Middle East
-YTL	ZheJiang yongtailong electronic co.,ltd.	China	Asia
-YYW	Shandong youyuan instrument co. LTD	China	Asia
-YZR	Cangzhou City Hebei Electronic Technology Co. Ltd.	China	Asia
-ZAG	Zellweger Uster AG	Switzerland	Europe
-ZAP	Zaptronix
-ZAR	SNC ZARALAB	Bulgaria	Europe
-ZCH	Zhejiang Chaorong Electric Technology Co., Ltd	China	Asia
-ZCU	Suzhou Dojustek Intelligent Technology Co.,Ltd.	China	Asia
-ZEL	Dr. techn. Josef Zelisko GmbH	Austria	Europe
-ZEN	ZenMeter Solutions Pvt. Ltd.	India	Asia
-ZEX	ZEXON ENERGY PRIVATE LIMITED	India	Asia
-ZFY	Hang Zhou Fu Yang Instrument General Factory	China	Asia
-ZGX	ZIGNUX TECHNOLOGY S.L.	Spain	Europe
-ZIP	St. Petersburg Meters\` Factory Co., Ltd.	Russian Federation	Europe
-ZIV	ZIV Aplicaciones y Tecnologia, S.A.
-ZJY	Zhejiang Jiayou Thermal Technology Equipment Co. LTD.	China	Asia
-ZLW	Ningbo ZLINK Technology CO. Ltd	China	Asia
-ZOT	Zhejiang Ocaenergy Technology Co., Ltd
-ZPA	ZPA Smart Energy a.s.	Czech Republic	Europe
-ZQB	Zhejiang Qibin Technology Co.,Ltd	China	Asia
-ZRI	ZENNER International GmbH & Co. KG	Germany	Europe
-ZRM	ZENNER International GmbH & Co. KG	Germany	Europe
-ZTE	ZTE Corporation ZTE Plaza	China	Asia
-ZTX	ZHEJIANG TANCY INSTRUMENT TECHNOLOGY CO. éTD-	China	Asia
-ZTY	ZHEJIANG CHINT INSTRUMENT & METER CO. LTD.	China	Asia
-ZVC	SigmaHeat GmbH
-ZXT	Zhejiang Xinghao Technology Co., Ltd
-ZXY	Linyi City Xiaoyuan Water Meter Co., Ltd.	China	Asia
-ZYB	WEIHAI ZHENYU INTELL & TECH Co. Ltd.	China	Asia
-ZYS	Wuxi Zhongyi Smart Technology CO,. LTD	China	Asia
-ZZZ	Michael Rac GmbH	Germany	Europe
+SSI	Company - 1607	Bulgaria	Europe
+SSL	Company - 4854
+SSM	Company - 2566	Bangladesh	Asia
+SSN	Company - 1608	United States of America	North America
+SSS	Company - 5155	France	Europe
+SST	Company - 1609	China	Asia
+STA	Company - 1610	China	Asia
+STC	Company - 1611	China	Asia
+STD	Company - 1612	Netherlands	Europe
+STE	Company - 5281
+STF	Company - 1613	Germany	Europe
+STH	Company - 9155	Poland	Europe
+STI	Company - 9258	Indonesia	Asia
+STI	Company - 9381	Indonesia	Asia
+STL	Company - 5313	Saudi Arabia	Middle East
+STM	Company - 1614	India	Asia
+STN	Company - 8963	China	Asia
+STO	Company - 1615	Germany	Europe
+STP	Company - 8559	India	Asia
+STR	Company - 1616	South Africa	Africa
+STS	Company - 1617	Switzerland	Europe
+STV	Company - 1618	Germany	Europe
+STW	Company - 8560	China	Asia
+STZ	Company - 1619	Germany	Europe
+SUL	Company - 8557	India	Asia
+SUM	Company - 7416	India	Asia
+SUN	Company - 1620	China	Asia
+SUP	Company - 8733	India	Asia
+SUX	Company - 8701	India	Asia
+SVM	Company - 1621
+SVT	Company - 1622	Russian Federation	Europe
+SWI	Company - 1623	Germany	Europe
+SWM	Company - 1624	Canada	North America
+SWS	Company - 1625	Germany	Europe
+SWT	Company - 1626	China	Asia
+SYC	Company - 1627	United Kingdom	Europe
+SYD	Company - 8700	India	Asia
+SYN	Company - 1628	Turkey	Middle East
+SYR	Company - 9129	Turkey	Middle East
+SYS	Company - 1629	Austria	Europe
+SYX	Company - 1630	United Kingdom	Europe
+SZS	Company - 1631	Hungary	Europe
+SZZ	Company - 9260	Switzerland	Europe
+TAG	Company - 1632	Switzerland	Europe
+TAL	Company - 2591	Italy	Europe
+TAN	Company - 2590	China	Asia
+TAS	Company - 1633	Iran	Middle East
+TAT	Company - 1634	Taiwan	Asia
+TAU	Company - 8713	India	Asia
+TAY	Company - 1635	Turkey	Middle East
+TAZ	Company - 4953	Iran	Middle East
+TBN	Company - 1636	China	Asia
+TBS	Company - 1637	Turkey	Middle East
+TCE	Company - 1638	China	Asia
+TCH	Company - 1639
+TCM	Company - 4790	Serbia	Europe
+TCO	Company - 1640	Czech Republic	Europe
+TCP	Company - 4970	Ukraine	Europe
+TCT	Company - 1641	Italy	Europe
+TCX	Company - 1642	China	Asia
+TCZ	Company - 1643	China	Asia
+TDC	Company - 1644	France	Europe
+TEA	Company - 2620
+TEC	Company - 2621	Germany	Europe
+TEH	Company - 4850
+TEI	Company - 2622	Japan	Asia
+TEK	Company - 2623	Germany	Europe
+TEL	Company - 8856	Nigeria	Africa
+TEN	Company - 5010	Russian Federation	Europe
+TEO	Company - 2624	Germany	Europe
+TEP	Company - 2625	France	Europe
+TER	Company - 7394	Russian Federation	Europe
+TEU	Company - 1645	Uzbekistan	Asia
+TFC	Company - 2626	Iran	Middle East
+TFG	Company - 4991	Italy	Europe
+TGX	Company - 2627	Italy	Europe
+THA	Company - 9110	Thailand	Asia
+THE	Company - 2628	Germany	Europe
+THS	Company - 8870	Bulgaria	Europe
+THW	Company - 2557	Italy	Europe
+TIC	Company - 2629	Japan	Asia
+TID	Company - 2588	South Korea	Asia
+TIG	Company - 2630	China	Asia
+TII	Company - 7364	India	Asia
+TII	Company - 2631	India	Asia
+TIL	Company - 2632	United Kingdom	Europe
+TIP	Company - 2633	Germany	Europe
+TIS	Company - 1646	Hong Kong	Asia
+TIX	Company - 1647
+TKK	Company - 9330	Japan	Asia
+TKN	Company - 5175	India	Asia
+TKS	Company - 1648	Turkey	Middle East
+TLC	Company - 1649	Spain	Europe
+TLM	Company - 1650	Germany	Europe
+TLR	Company - 1651	Italy	Europe
+TLS	Company - 1652	Sweden	Europe
+TLT	Company - 1653	Ukraine	Europe
+TLY	Company - 5154	Ukraine	Europe
+TME	Company - 2595	India	Asia
+TMK	Company - 1654
+TMS	Company - 1655	Turkey	Middle East
+TMZ	Company - 3719	Germany	Europe
+TNT	Company - 8992	Germany	Europe
+TOE	Company - 8566	Egypt	Middle East
+TOP	Company - 1656	Czech Republic	Europe
+TPB	Company - 1657	Bulgaria	Europe
+TPC	Company - 1658	Russian Federation	Europe
+TPG	Company - 7356	Uzbekistan	Asia
+TPI	Company - 1659	Pakistan	Asia
+TPJ	Company - 1660	Japan	Asia
+TPL	Company - 1661	Russian Federation	Europe
+TPZ	Company - 5220
+TRC	Company - 1662	Serbia	Europe
+TRF	Company - 9325	Iraq	Middle East
+TRG	Company - 2589	Germany	Europe
+TRI	Company - 1663	Sweden	Europe
+TRJ	Company - 1664	China	Asia
+TRL	Company - 1665	Canada	North America
+TRN	Company - 1666	Italy	Europe
+TRO	Company - 2610	Germany	Europe
+TRU	Company - 1667	South Africa	Africa
+TRV	Company - 1668	Turkey	Middle East
+TRW	Company - 5251
+TRX	Company - 1669	China	Asia
+TRZ	Company - 5308	South Africa	Africa
+TSD	Company - 1670	Austria	Europe
+TSE	Company - 5037	India	Asia
+TSG	Company - 2562	Germany	Europe
+TSM	Company - 9194	Taiwan	Asia
+TSW	Company - 8654	Malaysia	Asia
+TTG	Company - 8655	Taiwan	Asia
+TTM	Company - 1671	Japan	Asia
+TTN	Company - 8670	Taiwan	Asia
+TTR	Company - 1672	Switzerland	Europe
+TTT	Company - 1673	Bulgaria	Europe
+TUR	Company - 1674
+TWO	Company - 1675	Sweden	Europe
+TXL	Company - 1676	China	Asia
+TYK	Company - 9317	Japan	Asia
+UAG	Company - 1677
+UBI	Company - 1678	Austria	Europe
+UBY	Company - 1679	Germany	Europe
+UEI	Company - 1680	India	Asia
+UEL	Company - 5094	India	Asia
+UGI	Company - 1681
+UGT	Company - 1682	Ukraine	Europe
+UHM	Company - 1683	United Kingdom	Europe
+ULP	Company - 9313	Uzbekistan	Asia
+UNI	Company - 1684	Hong Kong	Asia
+UNM	Company - 8938	Croatia	Europe
+UPS	Company - 8949	India	Asia
+URM	Company - 1685	Italy	Europe
+USC	Company - 1686	Spain	Europe
+UTF	Company - 1687	United States of America	North America
+UTI	Company - 1688	Italy	Europe
+UTL	Company - 1689	India	Asia
+UTS	Company - 8860	India	Asia
+UTT	Company - 1690	Germany	Europe
+UZM	Company - 9261	Uzbekistan	Asia
+VAI	Company - 8780	India	Asia
+VAL	Company - 1691	Bulgaria	Europe
+VAR	Company - 7508	India	Asia
+VDP	Company - 1692	Russian Federation	Europe
+VEC	Company - 1693	Ukraine	Europe
+VEL	Company - 1694	India	Asia
+VEN	Company - 7529	India	Asia
+VER	Company - 1695	Austria	Europe
+VES	Company - 1696
+VEX	Company - 8628	Pakistan	Asia
+VFS	Company - 8745	Serbia	Europe
+VGO	Company - 1697	Taiwan	Asia
+VIE	Company - 1698	France	Europe
+VIK	Company - 1699	Turkey	Middle East
+VIM	Company - 5014	Turkey	Middle East
+VIN	Company - 1700	India	Asia
+VIP	Company - 1701	Czech Republic	Europe
+VIT	Company - 5307	Norway	Europe
+VLT	Company - 1702	Czech Republic	Europe
+VMP	Company - 1703	Finland	Europe
+VNE	Company - 1704	India	Asia
+VPI	Company - 1705
+VPL	Company - 5026	India	Asia
+VSE	Company - 1706	Spain	Europe
+VSN	Company - 5002	China	Asia
+VTC	Company - 1707	Netherlands	Europe
+VTG	Company - 5189
+VTK	Company - 1708	India	Asia
+VTN	Company - 4870	Ukraine	Europe
+VTZ	Company - 1709	South Korea	Asia
+VVV	Company - 4845	Germany	Europe
+WAD	Company - 2559	Sweden	Europe
+WAH	Company - 1710	Germany	Europe
+WAI	Company - 1711	China	Asia
+WAL	Company - 1712	India	Asia
+WDN	Company - 1713	France	Europe
+WEB	Company - 1714	Germany	Europe
+WEG	Company - 1715	Brazil	South America
+WEH	Company - 1716	Germany	Europe
+WEL	Company - 1717	China	Asia
+WEP	Company - 1718	Germany	Europe
+WFT	Company - 1719	India	Asia
+WGN	Company - 5075	Germany	Europe
+WGP	Company - 1720	Poland	Europe
+WHU	Company - 9017	Hungary	Europe
+WIG	Company - 1721	Netherlands	Europe
+WIK	Company - 3750	Germany	Europe
+WIN	Company - 1722	Netherlands	Europe
+WKL	Company - 1723	China	Asia
+WKX	Company - 1724	China	Asia
+WLX	Company - 9368	Sweden	Europe
+WMI	Company - 9209	Germany	Europe
+WMO	Company - 1725	Sweden	Europe
+WNC	Company - 1726	Germany	Europe
+WNW	Company - 1727	Taiwan	Asia
+WOW	Company - 2576	India	Asia
+WPG	Company - 9419	China	Asia
+WPZ	Company - 9135	France	Europe
+WRE	Company - 9289	India	Asia
+WSD	Company - 1728	China	Asia
+WSE	Company - 1729	China	Asia
+WSG	Company - 4809	China	Asia
+WSM	Company - 2603	India	Asia
+WSR	Company - 1730	Russian Federation	Europe
+WTI	Company - 1731	China	Asia
+WTL	Company - 1732	India	Asia
+WTM	Company - 1733	Italy	Europe
+WTT	Company - 1734	Italy	Europe
+WUR	Company - 1735	Germany	Europe
+WZG	Company - 1736	Germany	Europe
+WZT	Company - 1737	South Korea	Asia
+XAO	Company - 1738	Italy	Europe
+XEE	Company - 8735	Germany	Europe
+XEM	Company - 1739	Switzerland	Europe
+XIO	Company - 4911	India	Asia
+XJM	Company - 1740	China	Asia
+XLG	Company - 8919	Croatia	Europe
+XMA	Company - 1741	Poland	Europe
+XMX	Company - 1742	Belgium	Europe
+XPP	Company - 8839	India	Asia
+XTM	Company - 1743	China	Asia
+XTR	Company - 1744	China	Asia
+XTY	Company - 1745
+XYL	Company - 8602	Germany	Europe
+XYM	Company - 9281	China	Asia
+YAW	Company - 9061	Morocco	Africa
+YDD	Company - 1746
+YDS	Company - 1747	China	Asia
+YEM	Company - 9023	India	Asia
+YFC	Company - 1748	China	Asia
+YGM	Company - 1749	China	Asia
+YHE	Company - 1750	South Korea	Asia
+YHF	Company - 9019	China	Asia
+YJZ	Company - 4882	China	Asia
+YNE	Company - 7413	China	Asia
+YNP	Company - 1751	China	Asia
+YPP	Company - 1752	South Korea	Asia
+YPW	Company - 9271	Indonesia	Asia
+YSS	Company - 1753	Germany	Europe
+YTE	Company - 1754	Turkey	Middle East
+YTL	Company - 1755	China	Asia
+YYW	Company - 2580	China	Asia
+YZR	Company - 1756	China	Asia
+ZAG	Company - 1757	Switzerland	Europe
+ZAP	Company - 1758
+ZAR	Company - 1759	Bulgaria	Europe
+ZCH	Company - 4939	China	Asia
+ZCU	Company - 9020	China	Asia
+ZEL	Company - 1760	Austria	Europe
+ZEN	Company - 1761	India	Asia
+ZEX	Company - 4884	India	Asia
+ZFY	Company - 1762	China	Asia
+ZGX	Company - 1763	Spain	Europe
+ZIP	Company - 1764	Russian Federation	Europe
+ZIV	Company - 1765
+ZJY	Company - 1766	China	Asia
+ZLW	Company - 9088	China	Asia
+ZOT	Company - 5194
+ZPA	Company - 1767	Czech Republic	Europe
+ZQB	Company - 8766	China	Asia
+ZRI	Company - 1768	Germany	Europe
+ZRM	Company - 2634	Germany	Europe
+ZTE	Company - 1769	China	Asia
+ZTX	Company - 2581	China	Asia
+ZTY	Company - 1770	China	Asia
+ZVC	Company - 5285
+ZXT	Company - 5200
+ZXY	Company - 1771	China	Asia
+ZYB	Company - 1772	China	Asia
+ZYS	Company - 7470	China	Asia
+ZZZ	Company - 1773	Germany	Europe
